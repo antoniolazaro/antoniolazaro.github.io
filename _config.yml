@@ -28,9 +28,9 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
-author: "Teste Smith"
-title: "{ John Smith }"
+lang: "pt-br"
+author: "Antonio Lazaro Carvalho Borges (Popete)"
+title: "{ Antonio Lazaro Carvalho Borges (Popete's Site') }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
