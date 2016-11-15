@@ -130,13 +130,16 @@ events:
     description:  "Fim da pós-graduação em Engenharia de Software (Faculdade Ruy Barbosa)"
   - date: "Fevereiro/2010"
     description: "Inicio da pós-graduação em Engenharia de Software (Faculdade Ruy Barbosa)"
-  - date: "Julho/2008"
+  - image: "/img/ucsal.jpg"
+    date: "Julho/2008"
     description: "Conclusão da graduação na Ucsal (Universidade Católica do Salvador)"
-  - date: "Junho/2008"
+  - image: "/img/meta-it.jpg"
+    date: "Junho/2008"
     description: "Mudança de ares. Meta It (alocado para a Vivo/Telefônica). Analista Desenvolvedor Java."
-  - date: "Fevereiro/2008"
+  - image: "/img/polo-it.jpg"
+    date: "Fevereiro/2008"
     description: "Mudança de ares. Polo Tecnologia. Programador Java."
-  - image: "/img/insinuante.JPG"
+  - image: "/img/insinuante.jpg"
     date: "Fevereiro/2007"
     description: "Primeiro emprego (CLT) na área de programação. Indados. Programador Java."
   - image: "/img/dba_engenharia.JPG"
@@ -145,13 +148,10 @@ events:
   - image: "/img/ucsal.jpg"
     date: "Fevereiro/2003"
     description: "Inicio da faculdade na Ucsal (Universidade Católica do Salvador)"
-  #- image: "/img/timeline/baracktocat.jpg"
-   # date: "September 2007 - August 2013"
-    #description: "Started coding"
-
+  
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/DSC00367.JPG"
 
 ###########
 # Contact #
