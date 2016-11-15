@@ -57,7 +57,10 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Nada melhor que um programador preguiçoso. Você usa coisas que já estão prontas e tudo fica mais simples (Vinton Gray Cerf)"
   - text: "Codifique sempre como se o cara que for dar manutenção seja um psicopata violento que sabe onde você mora. (Martin Golding)"
-
+  - text: "Não se preocupe se não funcionar direito. Se tudo funcionasse, você estaria desempregado. (Lei de Mosher da Engenharia de Software)"
+  - text: "Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam. (Martin Fowler)"
+  - text: "Medir o progresso de um programa por linhas de código é como medir o processo de montagem de um avião pelo peso. (Bill Gates)"
+  
 me-img: "/img/DSC00367.JPG"
 
 ##############################
@@ -162,7 +165,7 @@ email: "antonio.lazaro@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Antonio Lazaro (também conhecido como Popete), é um desenvolvedor de sofware soteropolitano que gosta do que faz. Atualmente ajudando o Java Bahia com JUG Leader."
-author_blurb_image: "https://pbs.twimg.com/profile_images/195183601/DSC00367.JPG"
+author_blurb_image: "/img/DSC00367.JPG"
 
 ##################
 # Social Buttons #
