@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "pt-br"
-author: "Antonio Lazaro Carvalho Borges (Popete)"
-title: "{ Antonio Lazaro Carvalho Borges (Popete's Site') }"
+author: "Antonio Lazaro (Popete)"
+title: "{ Antonio Lazaro (Popete's Site') }"
 description: "Java Software Developer, interisting in learn about other topics as: Data Science, Machine Learning (and IA stuffs), Mobile development, NoSQL and other stuffs."
 keywords: "java, Popete, Developer, development, Project"
 favicon: "/img/favicon.ico"
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Nada melhor que um programador preguiçoso. Você usa coisas que já estão prontas e tudo fica mais simples (Vinton Gray Cerf)"
+  - text: "Codifique sempre como se o cara que for dar manutenção seja um psicopata violento que sabe onde você mora. (Martin Golding)"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -147,9 +147,9 @@ social:
   - title: "facebook"
     url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/antonio_lazaro"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "github.com/antoniolazaro"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
@@ -165,7 +165,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: antoniolazaro
 keybase-in-social: True
 keybase-in-footer: True
 
