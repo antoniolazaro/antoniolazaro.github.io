@@ -102,8 +102,8 @@ reddit-share: True
 google-plus-share: True
 tumblr-share: True
 pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "antoniolazaro"
 
@@ -136,11 +136,14 @@ events:
     description: "Mudança de ares. Meta It (alocado para a Vivo/Telefônica). Analista Desenvolvedor Java."
   - date: "Fevereiro/2008"
     description: "Mudança de ares. Polo Tecnologia. Programador Java."
-  - date: "Fevereiro/2007"
+  - image: "/img/insinuante.JPG"
+    date: "Fevereiro/2007"
     description: "Primeiro emprego (CLT) na área de programação. Indados. Programador Java."
-  - date: "Fevereiro/2006"
+  - image: "/img/dba_engenharia.JPG"
+    date: "Fevereiro/2006"
     description: "Primeira oportunidade na área de programação. DBA Engenharia e Sistemas. Estagiário programação Java."  
-  - date: "Fevereiro/2003"
+  - image: "/img/ucsal.jpg"
+    date: "Fevereiro/2003"
     description: "Inicio da faculdade na Ucsal (Universidade Católica do Salvador)"
   #- image: "/img/timeline/baracktocat.jpg"
    # date: "September 2007 - August 2013"
