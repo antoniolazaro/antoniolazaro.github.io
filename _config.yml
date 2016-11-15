@@ -30,7 +30,7 @@ force-https: True
 
 lang: "pt-br"
 author: "Antonio Lazaro (Popete)"
-title: "{ Antonio Lazaro (Popete's Site') }"
+title: "{ Antonio Lazaro (Popete's Site') - Versão Beta}"
 description: "Java Software Developer, interisting in learn about other topics as: Data Science, Machine Learning (and IA stuffs), Mobile development, NoSQL and other stuffs."
 keywords: "java, Popete, Developer, development, Project"
 favicon: "/img/favicon.ico"
