@@ -135,7 +135,7 @@ events:
   - image: "/img/ruy-barbosa.png"
     date: "Dezembro/2011"
     description:  "Fim da pós-graduação em Engenharia de Software (Faculdade Ruy Barbosa)"
-  - image: "/img/ruy-barbosa.png`"
+  - image: "/img/ruy-barbosa.png"
     date: "Fevereiro/2010"
     description: "Inicio da pós-graduação em Engenharia de Software (Faculdade Ruy Barbosa)"
   - image: "/img/ucsal.jpg"
