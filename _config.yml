@@ -39,9 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "https://pbs.twimg.com/profile_images/195183601/DSC00367.JPG"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "https://pbs.twimg.com/profile_banners/30927595/1358128207/1500x500"
 
 ##############################
 # Dynamic Text on the Header #
