@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Nada melhor que um programador preguiçoso. Você usa coisas que já estão prontas e tudo fica mais simples (Vinton Gray Cerf)"
   - text: "Codifique sempre como se o cara que for dar manutenção seja um psicopata violento que sabe onde você mora. (Martin Golding)"
 
-me-img: "https://pbs.twimg.com/profile_images/195183601/DSC00367.JPG"
+me-img: "/img/DSC00367.JPG"
 
 ##############################
 # Color the browser elements #
@@ -192,7 +192,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: antoniolazaro
+keybase-username: 
 keybase-in-social: True
 keybase-in-footer: True
 
