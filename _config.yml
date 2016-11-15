@@ -12,7 +12,7 @@ url: "https://antoniolazaro.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: 
+baseurl: /antoniolazaro
 
 # Google tracking id
 
@@ -28,11 +28,11 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "pt-br"
-author: "Antonio Lazaro Carvalho Borges (Popete)"
-title: "{ Antonio Lazaro Carvalho Borges (Popete's blog) }"
-description: "Java Software Developer, interisting in learn about other topics as: Data Science, Machine Learning (and IA stuffs), Mobile development, NoSQL and other stuffs."
-keywords: "popete, java, tech, Developer, development"
+lang: "en"
+author: "John Smith"
+title: "{ John Smith }"
+description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Java dev mainly and other stuffs..."
-  - text: "Let's talk..."
+  - text: "The lower you fall, the higher you'll fly."
+  - text: "Where’s your will to be weird?"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "antonio.lazaro@gmail.com"
+email: "your@email.here"
 
 ################
 # Author Blurb #
@@ -136,7 +136,7 @@ email: "antonio.lazaro@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Baiano, torcedor do Bahia, residindo atualmente em Salvador (Bahia/Brasil). Conversas sobre tecnologias é o objetivo principal desse blog."
+author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -144,12 +144,16 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514"
+  - title: "facebook"
+    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/antonio_lazaro"
+    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/antoniolazaro"
+    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+  - title: "bitcoin"
+    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "rss"
+    url: "/feed.xml"
 
 ############
 # 404 page #
