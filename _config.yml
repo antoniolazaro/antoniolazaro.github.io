@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "https://pbs.twimg.com/profile_images/195183601/DSC00367.JPG"
+black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "https://pbs.twimg.com/profile_banners/30927595/1358128207/1500x500"
 
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Nada melhor que um programador preguiçoso. Você usa coisas que já estão prontas e tudo fica mais simples (Vinton Gray Cerf)"
   - text: "Codifique sempre como se o cara que for dar manutenção seja um psicopata violento que sabe onde você mora. (Martin Golding)"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "https://pbs.twimg.com/profile_images/195183601/DSC00367.JPG"
 
 ##############################
 # Color the browser elements #
