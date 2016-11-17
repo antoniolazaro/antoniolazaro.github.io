@@ -41,7 +41,8 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "https://pbs.twimg.com/profile_banners/30927595/1358128207/1500x500"
+#background-img: "https://pbs.twimg.com/profile_banners/30927595/1358128207/1500x500"
+background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
