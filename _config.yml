@@ -1,241 +1,38 @@
-
 # Site settings
+title: "Antonio Lazaro"
+email: antonio.lazaro@gmail.com
+description: "Site pessoal Antonio Lazaro Carvalho Borges (Popete)"
+baseurl: ""
+url: "http://carte-noire.jacobtomlinson.co.uk/"
+title_description: "Site pessoal Antonio Lazaro Carvalho Borges (Popete). Tentar compartilhar algumas coisas que aprendo ou estudo durante minha jornada"
+title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-20365477-4"
+disqus_account: by/antonio_lazaro/
+github_repository: https://github.com/jacobtomlinson/carte-noire
+addthis_id: ra-586d63a90af5cb0a
+post_limit: 5
 
-# NB! Set your site's url, otherwise stuff will break :)
+# Social usernames/URLs
+twitter_username: antonio_lazaro
+github_username:  antoniolazaro
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514?trk=nav_responsive_tab_profile
+google_plus_link: https://plus.google.com/106891520454596123796
+stackoverflow_link: http://stackoverflow.com/users/2184464/antoniolazaro?tab=profile
+xing_link:
+facebook_link:
 
-url: "https://antoniolazaro.github.io"
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
+# Build settings
+markdown: kramdown
 
-baseurl: /antoniolazaro.github.io
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-# Google tracking id
-
-google-tracking-id: ""
-
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
-force-https: True
-
-#############
-# HTML Head #
-#############
-
-lang: "pt-br"
-author: "Antonio Lazaro (Popete)"
-title: "{ Antonio Lazaro (Popete's Site') - Versão Beta}"
-description: "Java Software Developer, interisting in learn about other topics as: Data Science, Machine Learning (and IA stuffs), Mobile development, NoSQL and other stuffs."
-keywords: "java, Popete, Developer, development, Project"
-favicon: "/img/favicon.ico"
-
-################
-# Header layout #
-################
-
-black-favicon: "/img/black-lab-glass.ico"
-
-#background-img: "https://pbs.twimg.com/profile_banners/30927595/1358128207/1500x500"
-background-img: "../img/intro-bg.jpg"
-
-##############################
-# Dynamic Text on the Header #
-##############################
-
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Nada melhor que um programador preguiçoso. Você usa coisas que já estão prontas e tudo fica mais simples (Vinton Gray Cerf)"
-  - text: "Codifique sempre como se o cara que for dar manutenção seja um psicopata violento que sabe onde você mora. (Martin Golding)"
-  - text: "Não se preocupe se não funcionar direito. Se tudo funcionasse, você estaria desempregado. (Lei de Mosher da Engenharia de Software)"
-  - text: "Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam. (Martin Fowler)"
-  - text: "Medir o progresso de um programa por linhas de código é como medir o processo de montagem de um avião pelo peso. (Bill Gates)"
-  
-me-img: "/img/DSC00367.JPG"
-
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
-
-################
-# Web app mode #
-################
-
-web-app-mode: True
-
-# Icons for Web App mode
-
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
-
-########
-# Blog #
-########
-
-enable-gesture-navigation: True
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: False
-vkontakte-share: False
-
-disqus-shortname: "antonio_lazaro"
-
-syntax-highlight: True
-
-############
-# Timeline #
-############
-
-events:
-  - image: "/img/javabahia.png"
-    date: "Agosto/2016"
-    description:  "JUG Leader Java Bahia"
-  - image: "/img/vortice.png"
-    date: "Junho/2016"
-    description:  "Fechamento da empresa Vórtice com Antonio Fernando Amorim."
-  - image: "/img/ufba.jpg"
-    date: "2016"
-    description:  "Aluno especial mestrado em computação Universidade Federal da Bahia (Ufba). Disciplina: Computação Ubiqua e sensível a contexto (Professora: Vaninha Vieira)"
-  - image: "/img/vortice.png"
-    date: "Junho/2013"
-    description:  "Abertura empresa Vórtice com Antonio Fernando Amorim."
-  - image: "/img/ufba.jpg"
-    date: "2012"
-    description:  "Aluno especial mestrado em computação Universidade Federal da Bahia (Ufba). Disciplina: Paradigmas de linguagens de programação (Professora: Lais Nascimento)"
-  - image: "/img/indra.png"
-    date:   "Julho/2012 - Até hoje"
-    description:  "Mudança de empresa (Indra Company), mas sem mudar o cliente (Telefônica/Vivo) Inicio etapa de liderança de times."
-  - image: "/img/ruy-barbosa.png"
-    date: "Dezembro/2011"
-    description:  "Fim da pós-graduação em Engenharia de Software (Faculdade Ruy Barbosa)"
-  - image: "/img/ruy-barbosa.png"
-    date: "Fevereiro/2010"
-    description: "Inicio da pós-graduação em Engenharia de Software (Faculdade Ruy Barbosa)"
-  - image: "/img/ucsal.jpg"
-    date: "Julho/2008"
-    description: "Conclusão da graduação na Ucsal (Universidade Católica do Salvador)"
-  - image: "/img/meta-it.jpg"
-    date: "Junho/2008"
-    description: "Mudança de ares. Meta It (alocado para a Vivo/Telefônica). Analista Desenvolvedor Java."
-  - image: "/img/polo-it.jpg"
-    date: "Fevereiro/2008"
-    description: "Mudança de ares. Polo Tecnologia. Programador Java."
-  - image: "/img/insinuante.jpg"
-    date: "Fevereiro/2007"
-    description: "Primeiro emprego (CLT) na área de programação. Indados. Programador Java."
-  - image: "/img/dba_engenharia.JPG"
-    date: "Fevereiro/2006"
-    description: "Primeira oportunidade na área de programação. DBA Engenharia e Sistemas. Estagiário programação Java."  
-  - image: "/img/ucsal.jpg"
-    date: "Fevereiro/2003"
-    description: "Inicio da faculdade na Ucsal (Universidade Católica do Salvador)"
-  
-# First image of the Timeline
-
-timeline-img: "/img/DSC00367.JPG"
-
-###########
-# Contact #
-###########
-
-email: "antonio.lazaro@gmail.com"
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "Antonio Lazaro (também conhecido como Popete), é um desenvolvedor de sofware soteropolitano que gosta do que faz. Atualmente ajudando o Java Bahia com JUG Leader."
-author_blurb_image: "/img/DSC00367.JPG"
-
-##################
-# Social Buttons #
-##################
-
-social:
-  #- title: "facebook"
-  # url: "https://facebook.com/"
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514"
-  - title: "twitter"
-    url: "https://twitter.com/antonio_lazaro"
-  - title: "github"
-    url: "https://github.com/antoniolazaro"
-  # - title: "bitcoin"
-  #  url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
-
-############
-# 404 page #
-############
-
-404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: 
-keybase-in-social: False
-keybase-in-footer: False
-
-################################################################################
-
-# NB! Tread carefully if you want to change the variables below this point!
-
-# Sections shown in the index page
-
-pages_list:
-  Sobre: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contato: 'contact'
-
-# Exclusion list from the generated _site
-
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
-
-# Pagination path
-
-paginate_path: "blog/page:num/"
-
-# Enable minification SASS
-
-sass:
-  style: compressed
-
-gems:
-  - jekyll-paginate
-  - jemoji
+permalink: pretty
+exclude: [vendor]
