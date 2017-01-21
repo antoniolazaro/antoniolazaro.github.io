@@ -1,0 +1,236 @@
+url: http://streetturtle.github.io
+projectUrl: jekyl-cv-crafter
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Antonio Lazaro
+  profession: Software Developer
+  location: Salvador/Bahia (Brazil)
+  citizenship: Brazilian
+  email: antonio.lazaro@gmail.com
+  site: https://antoniolazaro.github.io
+  phone: +55-071-988672738
+  whatsapp: +55-071-988672738
+  telegram: +55-071-988672738
+  github: /antoniolazaro
+  stackoverflow: /2184464/antoniolazaro
+  twitter: /antonio_lazaro
+  linkedin: /antonio-lazaro-carvalho-borges-a78a1514
+  skype: alazaro.carvalho
+
+summary:
+  content: Software developer professionally since 2006, but involved with programming since the beginning of graduation 2003. During this journey, I went through several areas of software engineering, from test team, programmer, requirements analyst, developer, software engineer, architect . <br />Starting in 2009, within Meta It's contract with Vivo, I assumed the role of team leader, where I was responsible for managing the team and forming new developers that entered the team. These teams had different sizes and varied from 2 to 12 people, with deadlines and projects of all kinds. Always focused on the Java platform with Web development, in some moments I was responsible for maintenance in Desktop projects where Swing was used. <br /> In August 2011, I left the role of project leader a bit aside and became part of the R & D team that fulfilled Vivo's (Telefónica) contract. In this role, I was responsible for studying the process of developing the entire team (between 30 and 50 people) and proposing improvements, tools and techniques to increase team productivity. This team was also responsible for defining the architecture of the new projects and supporting the old projects in general support. In October of the same year, I became leader of this team and with the support of the team, give the guidelines of the other projects. Role that we accumulate to the present day, alternating with team leader / project role when necessary. <br /> In 2013, with the support of a friend, we founded Vórtice It, a consulting company and made some products. The company was closed in June / 2016. <br /> Starting in 2012, I started research in the area of ​​mobile development, some pilot projects were executed at the client. We are currently evaluating the use of technologies with Javascript for the frontend and hybrid mobile development.
+
+career:
+ - position: Software Developer and Team Leader
+   company: Indra Company
+   location: Salvador, Bahia, Brazil
+   dates: 07/2012 - Current
+   summary: Team leader responsible for projects, set technology, processes as well as tools to increase team productivity. Most of the time, serving the Telefónica customer in several areas as legal, data confidentiality, customer service, networks and engineering, for example. At some moments, I gave other projects on time, such as the development of Moderna's sales data modernization project, implementing a mobile tool that replaced paper forms.
+ - position: Partner, Team Leader and developer
+   company: Vortice IT
+   location: Salvador, Bahia, Brazil
+   dates: 06/2013 - 06/2016
+   summary: Partner and technical manager of the company. As responsibilities financially and administratively managed the company, as well as took care of product development and consulting clients on the project. Within this society, two products were built as Elaudos and Vortice Retail, described in the Side Projects section.
+ - position: Software Developer and Team Leader
+   company: Meta It
+   location: Salvador, Bahia, Brazil
+   dates: 06/2008 - 07/2012
+   summary: Developer and as of 2011 I started to play the role of team leader serving the Vivo / Telefônica client project.
+ - position: System Analist
+   company: Polo It
+   location: Salvador, Bahia, Brazil
+   dates: 02/2007 - 12/2007
+   summary: Analyst and developer who worked on the construction of features and maintenance of projects to meet the client of the Insinuante group.
+ - position: Software programmer
+   company: Indados (from Insinuante group)
+   location: Salvador, Bahia, Brazil
+   dates: 02/2007 - 12/2007
+   summary: Programmer who developed specified demands and defined by the requirements team.
+ - position: Trainee software development
+   company: DBA Engenharia de Sistemas
+   location: Salvador, Bahia, Brazil
+   dates: 02/2006 - 12/2006
+   summary: Programmer who developed specified demands and defined by the requirements team.
+   #accomplishments:
+    #- accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge #with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
+    #- accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of #water ballon to use against the tank of the truck.
+ 
+technicalSkills:
+  list:
+    - tr: "Creative, curious and very social"
+    - tr: "Build projects with passion"
+    - tr: "Work in team"
+  backend:
+   - name: Java
+     level: 90
+   - name: JEE
+     level: 80
+   - name: JSF
+     level: 90
+   - name: Spring MVC
+     level: 75
+   - name: EJB
+     level: 85
+   - name: JPA
+     level: 75
+   - name: Hibernate
+     level: 75
+   - name: Spring Data
+     level: 75
+   - name: JDBC
+     level: 80
+  frontend:
+   - name: HTML
+     level: 50
+   - name: JavaScript
+     level: 45
+   - name: JQuery
+     level: 30
+   - name: CSS
+     level: 30
+  other:
+   - name: Oracle Database
+     level: 75
+   - name: Postgres Database
+     level: 75
+   - name: Mysql Database
+     level: 60
+   - name: Rest
+     level: 70
+   - name: SOA
+     level: 70
+   - name: Git
+     level: 80
+   - name: GitHub
+     level: 80
+   - name: Maven
+     level: 50
+   - name: Scrum
+     level: 80
+   - name: DICOM (Digital Imaging and Communications in Medicine)
+     level: 40
+   - name: PACS (Picture archiving and communication system)
+     level: 40
+
+languages:
+   - name: Portuguese
+     level: 100
+   - name: English
+     level: 75
+
+sideProjects:
+  - name: Rio Perfil 
+    description: Project developed for the Rio Apps software contest promoted by the City Hall of Rio de Janeiro. The application had web and mobile versions. The project was developed in partnership with a friend and he was responsible for building the presentation layer using the Adobe Flex platform. The project was submitted but was not classified for the final stages of the contest. 
+    link: https://github.com/antoniolazaro/RioPerfilAWS
+    type: github
+    dates: 2014
+    langs: Java/Servlet
+  - name: Elaudos
+    description: Design built to provide physicians access to remote imaging of exams done using diagnostic machines using DICOM protocol and stored in a PACS. The tool provides management of the queue of exams to be lauded as well as manages the productivity of physicians. In addition to providing a workflow ranging from exam capture, to audio recording of the award. After this step, the report is entered and made available to the patient through an examination portal, where the patient had access to the exams.
+    link: 
+    type: site
+    dates: 11/2012-06/2016
+    langs: Java/Servlet/Dicom/PACS/JSF
+  - name: Vórtice Varejo
+    description: Design built to manage store inventory, as well as the financial flow of inventory and sales.
+    link: 
+    type: site
+    dates: 01/2015-03/2016
+    langs: Java/Servlet/Dicom/PACS/JSF
+ 
+education:
+  - name: Graduation Course
+    degree: Bachelor of Science in Computer Science
+    location: UCSAL (Universidade Católica do Salvador)
+    dates: 2003 – 2008
+  - name: Graduate Latu Sensu
+    degree: Software engineering specialist
+    location: Faculdade Devry Ruy Barbosa
+    dates: 2010 – 2011
+  - name: Special Student Master degree program
+    degree: Special Student Master degree program on subject Paradigms of programming languages
+    location: UFBA (Universidade Federal da Bahia)
+    dates: 2012
+  - name: Special Student Master degree program
+    degree: Special Student Master degree program on subject Ubiqutous and Context aware computing
+    location: UFBA (Universidade Federal da Bahia)
+    dates: 2016
+
+certificates:
+  - name: Sun Certified Java Programmer
+    shortName: SCJP
+    dates: 2007
+
+publications:
+  - name: Mobile Day
+    location: UFBA (Federal University of Bahia)
+    dates: 01/2014
+    link: http://www.slideshare.net/antoniolazarobr/mobile-dayufba2014slideshare
+  - name: Basic Java training, Java web and JSF for trainee trainees Indra Company
+    location: Unijorge
+    dates: 09/2014  
+  - name: First Technology week of FTC (Technology and Science College)
+    location: FTC (Faculdade Tecnologia e Ciência)
+    dates: 10/2015
+    link: http://www.slideshare.net/antoniolazarobr/mobile-dayufba2014slideshare
+  - name: Java Bahia Tour at Universities (JUG Activitie)
+    location: Unijorge
+    dates: 08/2016
+    link: http://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia
+  - name: Java Bahia Tour at Universities (JUG Activitie)
+    location: Faculdade Ruy Barbosa
+    dates: 09/2016
+    link: http://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia
+  - name: Java Bahia Tour at Universities (JUG Activitie)
+    location: UNIFACS
+    dates: 10/2016
+    link: http://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia
+  - name: III Information's Technology Symposium (JUG Activitie)
+    location: FVC - Faculdade Visconde de Cairu
+    dates: 10/2016
+    link: http://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia
+  - name: IV UCSAL Talks - JUG Activitie
+    location: UCSAL (Universidade Católica do Salvador)
+    dates: 11/2016
+    link: http://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia
+  - name:  II Week of Science, Sustainability and Technology of Unime (JUG Activitie)
+    location: Unime
+    dates: 11/2016
+    link: http://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia
+  - name:  JSF 2 - From basic to advanced overview.
+    location: Indra Company
+    dates: 11/2016
+    link: http://www.slideshare.net/antoniolazarobr/jsf-2-slideshare
+  - name: Java Bahia Tour at Universities (JUG Activitie)
+    location: UFBA (Federal University of Bahia)
+    dates: 12/2016
+    link: http://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia
+
+courses:
+  - name: Java Fundamental
+    dates: 12/2004
+    institution: Barauna Tecnologia
+  - name: Basic Java Web (JSP/Servlets)
+    dates: 04/2005
+    institution: Barauna Tecnologia
+  - name: Jboss Road Map
+    dates: 11/2008
+    institution: Redhat
+  - name: Preparatory Scrum Master Certification
+    dates: 09/2016
+    institution: Elite Training
+  - name: Ionic 2 Bootcamp
+    dates: 10/2016
+    institution: Ionic Bootcamp
+
+conferences:
+  - name: ERBASE 2015 (Encontro Regional Bahia e Sergipe)
+    dates: 04/2015
+  - name: Java One Latin America (Oracle)
+    dates: 06/2016
+
+additionalActivitie:
+  - name: JUG Leader at Java Bahia JUG (Java User Group)
+    dates: 08/2016 – Current
+    link: https://javabahia.blogspot.com.br
