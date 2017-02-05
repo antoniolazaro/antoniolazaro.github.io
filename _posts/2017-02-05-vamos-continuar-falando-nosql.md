@@ -17,7 +17,7 @@ Os bancos de dados não relacionais, ou também conhecidos como NoSQL (not only 
 Os bancos NoSQL estão classificados em 4 grande tipos. São eles:
 
 - Chave-valor - Os registros são armazenados como uma coleção de elementos indexados que são recuperados por uma chave. Funciona muito bem para informações no formato de listas;
-- Colunar - Registro são armazenados em uma tabela, mas cada registro pode possuir várias colunas;
+- Colunar(column family) - Registro são armazenados em uma tabela, mas cada registro pode possuir várias colunas;
 - Documento - Cada registro é um documento que pode ou não fazer parte de uma coleção;
 - Grafo - Os registros são nós em um grafo interligados por arestas que representam o tipo de relacionamento entre eles;
 - Multimodelo - Suporta mais de um paradigma.
@@ -42,7 +42,7 @@ Fica ai uma questão, em qual contexto é sugerido o uso de cada tipo de banco d
     * [Riak](http://basho.com/products/#riak)
     * [Memcache](http://memcachedb.org/)
 
-### Colunar:
+### Colunar (column family):
   * Exemplos de contexto onde pode ser usado:
     * Tratamento de largo volume de dados (a partir de Terabytes) com demanda de alta performance em leitura e escrita e alta disponibilidade
     * Aplicações distribuídas entre diversos datacenters
