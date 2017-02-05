@@ -99,8 +99,8 @@ Fica ai uma questão, em qual contexto é sugerido o uso de cada tipo de banco d
     * [OrientDB](http://orientdb.com/)
    
 Fontes:
-- [Post introdutório no blog de Ivan Queiroz](http://blog.ivanqueiroz.com/2017/01/o-que-devo-saber-sobre-nosql.html)
-<br />- [Livro da Casa do Código - NoSQL Como armazenar os dados de uma aplicação moderna](https://www.casadocodigo.com.br/products/livro-nosql)
+<br /> - [Post introdutório no blog de Ivan Queiroz](http://blog.ivanqueiroz.com/2017/01/o-que-devo-saber-sobre-nosql.html)
+<br /> - [Livro da Casa do Código - NoSQL Como armazenar os dados de uma aplicação moderna](https://www.casadocodigo.com.br/products/livro-nosql)
 <br />- [http://tech.leroymerlin.com.br/devemos-usar-nosql-e-mongodb](http://tech.leroymerlin.com.br/devemos-usar-nosql-e-mongodb)
 <br />- [Nosql Database (reune todos bancos Nosql disponíveis)](http://nosql-database.org/)
 <br />- [http://www.slideshare.net/steppat/nosql-por-que-e-quando-usar](http://www.slideshare.net/steppat/nosql-por-que-e-quando-usar)
