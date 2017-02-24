@@ -32,36 +32,36 @@ Eclipse? Netbeans? A resposta é, aquela que você se tornar mais produtivo. **I
 ### Conhecimentos diferenciais 
 
 Esses, preferencialmente, devem ser aprendidos durante a graduação e serão levados para toda vida profissional (não necessariamente nessa ordem):
--**Arquitetura de computadores:** Entender sobre memória, processores, multi-core, barramentos, etc.
--**Sistemas operacionais:** O que é paginação, swap, como funciona sistema de arquivo, gerenciamento de memória, etc.
--**Redes de computadores:** Protocolos TCP/IP, HTTP, dentre outros. Como funciona uma rede. Você sabe que a internet é uma rede? Então, para fazer aplicações WEB (que rodam na internet) vocês precisarão de alguns conceitos básicos).
--**Sistemas distribuídos:** O que é um grid/cluster. Sabe o nome cloud? Nuvem? É disso que eles são feitos.
--**Linux:** Normalmente ambientes Java, PHP, Python, Ruby são hospedados em servidores Linux. Sabe AWS? Azure? Google Cloud? Advinha qual SO que eles oferecem para suas aplicações serem implantadas?
--**Html, CSS e javascript:** Se quiser fazer alguma aplicação Web, pelo menos o básico disso precisam saber.
+- Arquitetura de computadores: Entender sobre memória, processores, multi-core, barramentos, etc.
+- Sistemas operacionais: O que é paginação, swap, como funciona sistema de arquivo, gerenciamento de memória, etc.
+- Redes de computadores: Protocolos TCP/IP, HTTP, dentre outros. Como funciona uma rede. Você sabe que a internet é uma rede? Então, para fazer aplicações WEB (que rodam na internet) vocês precisarão de alguns conceitos básicos).
+- Sistemas distribuídos: O que é um grid/cluster. Sabe o nome cloud? Nuvem? É disso que eles são feitos.
+- Linux: Normalmente ambientes Java, PHP, Python, Ruby são hospedados em servidores Linux. Sabe AWS? Azure? Google Cloud? Advinha qual SO que eles oferecem para suas aplicações serem implantadas?
+- Html, CSS e javascript: Se quiser fazer alguma aplicação Web, pelo menos o básico disso precisam saber.
 
 ### Onde aprender mais?
 
 #### Cursos online pagos (com direito a suporte de professores, e outros recursos):
--**https://www.alura.com.br/**
--**http://www.globalcode.com.br/home**
--**http://www.algaworks.com/**
+- https://www.alura.com.br/
+- http://www.globalcode.com.br/home
+- http://www.algaworks.com/
 
 
 #### Cursos online e gratuitos:
--**https://www.coursera.org/learn/orientacao-a-objetos-com-java**
--**http://loiane.training/curso/java-basico/**
--**http://loiane.training/curso/java-basico-ii/**
--**http://loiane.training/curso/estrutura-de-dados-e-algoritmos-com-java/**
--**https://www.youtube.com/user/Loianeg**
--**https://www.caelum.com.br/apostila-java-orientacao-objetos/**
--**https://www.caelum.com.br/apostila-java-estrutura-dados/**
+- https://www.coursera.org/learn/orientacao-a-objetos-com-java
+- http://loiane.training/curso/java-basico/
+- http://loiane.training/curso/java-basico-ii/
+- http://loiane.training/curso/estrutura-de-dados-e-algoritmos-com-java/
+- https://www.youtube.com/user/Loianeg
+- https://www.caelum.com.br/apostila-java-orientacao-objetos/
+- https://www.caelum.com.br/apostila-java-estrutura-dados/
 
 #### Material em inglês:
--**https://www.coursera.org/specializations/java-programming**
+- https://www.coursera.org/specializations/java-programming
 
 #### Livros?
--**https://www.casadocodigo.com.br/collections/livros-de-java**
--**https://pragprog.com/titles/category/java_vm?f[sort_by]=pubdate&f[category]=java_vm&f[skill_level]=All&f[title_contains]=**
--**http://www.altabooks.com.br/use-a-cabeca.html**
--**http://www.altabooks.com.br/**
--**https://www.casadocodigo.com.br/**
+- https://www.casadocodigo.com.br/collections/livros-de-java
+- https://pragprog.com/titles/category/java_vm?f[sort_by]=pubdate&f[category]=java_vm&f[skill_level]=All&f[title_contains]=
+- http://www.altabooks.com.br/use-a-cabeca.html
+- http://www.altabooks.com.br/
+- https://www.casadocodigo.com.br/
