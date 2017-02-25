@@ -4,7 +4,7 @@ Hoje, trocando idéia com [Mateus](https://twitter.com/mmalaquias1) discutiamos 
 
 Mas você sabia que sobre a JVM, é possível executar código de outras linguagens além da linguagem Java? Pois é, conversando com a galera, eles ficaram surpresos, por não saber a diferença entre um e outro, e esse foi o motivo que me incentivou a escrever esse post.
 
-Fiz um levantamento (fontes na seção de fontes) e encontrei diversas listas de linguagens da JVM.
+Fiz um levantamento (referências na seção de fontes) e encontrei diversas listas de linguagens da JVM.
 As mais citadas foram:
 
 - [Clojure](https://clojure.org/), a functional Lisp dialect
@@ -22,9 +22,9 @@ Me parece, que Scala, Groovy e Clojure são as mais usadas depois do Java. Kotli
 Até JavaScript, a linguagem da moda, tem suporte na JVM. No passado existia o [projeto Rhino](https://github.com/mozilla/rhino) da fundação Mozilla, cuja evolução, virou o [projeto Nashorn](http://www.oracle.com/technetwork/articles/java/jf14-nashorn-2126515.html) a partir do Java 8. Lembrando que esse suporte a linguagens de scripts foi adicionado na release 6 do Java, através da JSR 223 ([esse link mostra a evolução do Java desde a versão 1.4](https://antoniolazaro.github.io/java/2017/01/03/evolucao-java/)).
 
 Como na pesquisa que fiz achei um tema curioso, sobre como criar sua própria linguagem, resolvi compartilhar com vocês, alguns materiais sobre o tema:
-https://www.toptal.com/software/creating-jvm-languages-an-overview
-https://www.infoq.com/news/2011/04/new-jvm-lang
-http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.xtext.doc%2Fcontents%2F035-domainmodel-java.html
+- https://www.toptal.com/software/creating-jvm-languages-an-overview
+- https://www.infoq.com/news/2011/04/new-jvm-lang
+- http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.xtext.doc%2Fcontents%2F035-domainmodel-java.html
 
 Como estamos falando de linguagens, compartilho com vocês uns sites que exibe os rankings de linguagens mais usadas. O Tiobe é o mais conhecido, na minha opnião (a depender da demanda, posso tentar escrever um post sobre isso). Java é unanime nas primeiras posições de todos rankings o que a torna uma linguagem bastante interessante para aprender.
 
