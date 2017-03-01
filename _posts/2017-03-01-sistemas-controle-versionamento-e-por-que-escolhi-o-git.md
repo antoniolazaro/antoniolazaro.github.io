@@ -1,6 +1,3 @@
----
-published: false
----
 ## Sistemas de controle de versionamento e por quê escolhi o GIT
 
 O objetivo desse post é explicar o que é um SCM, exemplificar os tipos e apresentar algumas opções com a recomendação de uma que, acredito que seja o atual padrão de mercado.
