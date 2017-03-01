@@ -32,38 +32,57 @@ Quando falamos em SCM, podemos dividi-los basicamente em dois grandes tipos. Cen
 
 2. Modelo distribuído:
   - Vantagens dessa abordagem:
-    - Modelo mais simples de ser compreendido
-    - Permite mais controle dos usuários e acesso ao repositório
-    - Simples de iniciar o uso
+    * Exceto o pull inicial, eles são muito mais rápidos do que os sistemas centralizados como CVS e SVN.
+	* Muitas operações não necessitam de acesso à rede, então o desenvolvedor pode trabalhar offline, sincronizando com o repositório remoto apenas quando necessário.
+	* O desenvolvedor pode trabalhar em modo privado, gerando tags, branches e versões que serão simplesmente descartadas.
+	* Exceto quando há conflitos, o merge é automático.
+	* Cada cópia do repositório funciona como um backup do repositório "principal".
   - Desvantagens dessa abordagem:
-    - O acesso ao servidor é a única forma de compartilhar código.
-    - Todo comando precisa de conexão com servidor
-    - Branching e merge são mais custosos do ponto de vista de consumo de recurso computacional (exige mais disco, exige mais processamento).  
+    - Curva de aprendizado inicial para os desenvolvedores entenderem os conceitos da distribuição do file system.
+    - Importante que um fluxo de trabalho seja definido para evitar caos. 
   - Principais ferramentas do mercado nessa abordagem:
-  - 	GIT (Concurrent Versions System): Um dos primeiros sistemas de controle de versão. Segue fluxo de desenvolvimento baseado em um tronco (trunk) de onde podem surgir desenvolvimentos alternativos (branches ou ramos) e as tags servem para sinalizar versões estáveis. Teve sua importância ao longo do tempo, porém atualmente, **se vai iniciar um projeto não deve avaliar o CVS mesmo que sua opção seja um sistema centralizado.** Naturalmente, o CVS é muito mais lento que o SVN.
-  - 	Mercurial (Subversion): Aparece no mercado como evolução do CVS e vem com objetivo de resolver varias limitações da ferramenta anterior. Algumas das evoluções que podem ser citadas em relação ao CVS é permitir renomear e mover arquivos, bem como o suporte de commit atômico, suportando rollback em caso de falhas.
+  - 	GIT (Concurrent Versions System): Desenvolvido em 2005 por Linus Torvalds com objetivo de facilitar o gerenciamento do kernell do linux que tem milhares de colaboradores espalhados ao redor do mundo.
+  - 	Mercurial (Subversion): Tem recursos semelhantes ao GIT. O Bit Bucket hospeda tanto projetos git quanto mercurial.
 
-### Conclusão
+### Conclusão. Por que usa o Git?
+
 Diante do apresentado, minha conclusão pessoal sobre ferramentas de versionamentos. Se tiver que usar o modelo centralizado, vá de SVN. Caso não seja obrigado, recomendo fortemente o uso do GIT, como opção, por diversos aspectos:
+
+#### Aspectos funcionais:
+
+1. Em quase tudo é executado mais rápido, em alguns casos muito mais rápido por ser otimizado para funcionar pela internet.
+2. O repositório ocupa menos espaço.
+3. É muito mais fácil administrar diversas fontes de atualizações.
+4. É fácil trabalhar com cópias locais para fazer experimentos e desenvolvimentos paralelos. Branches são baratos e simples. São incentivados.
+5. Incentiva o commit frequente.
+6. Facilita muito fazer merge.
+7. Permite trabalhar confortavelmente sem perder nenhuma funcionalidade e informação sem estar conectado ao servidor central (que pode e frequentemente é usado). Ele tem mais metadados locais.
+8. Possui mais informações de auditoria e que permitem mais facilidades em toda a administração.
+9. Manipula conversão de fim de linha mais facilmente.
+10. As revisões são assinadas digitalmente.
+12. Possui uma staging area que permite selecionar partes que deseja enviar para um repositório.
+13. Permite uma gama maior de fluxos de trabalho.
+
+#### Aspectos não funcionais:
+
 1. Padrão de mercado
 2. Permite que você use poderosos serviços de hosting como o Github (https://github.com/) e o Bitbucket (https://bitbucket.org/) gratuitamente (cada um tem suas limitações e termos para a gratuidade) e baixo custo (repositórios particulares custam abaixo de 10 dólares mês). Isso tudo com backup, sob responsabilidade dessas empresas!
 3. Muitos projetos opensource usam o git, e são hospedados no github, isso facilita a imersão.
 4. O Google Code, um dos maiores repositórios de projetos open source [migraram para o GIT, hospedando seus projetos no GitHub](https://opensource.googleblog.com/2015/03/farewell-to-google-code.html).
 5. Grandes empresas estão usando, como Oracle, Apple, Microsoft:
-1. https://github.com/oracle
-2. https://github.com/apple
-3. https://github.com/Microsoft
-4. https://github.com/twitter
-5. https://github.com/Netflix
-6. https://github.com/facebook
-7. https://github.com/Instagram
-
+  1. https://github.com/oracle
+  2. https://github.com/apple
+  3. https://github.com/Microsoft
+  4. https://github.com/twitter
+  5. https://github.com/Netflix
+  6. https://github.com/facebook
+  7. https://github.com/Instagram
 6. Grandes projetos são gerenciados através dessa ferramenta:
-1. https://github.com/torvalds/linux
-2. https://github.com/twbs/bootstrap
-3. https://github.com/jquery/jquery
-4. https://github.com/rails/rails
-5. https://github.com/spring-projects
+  1. https://github.com/torvalds/linux
+  2. https://github.com/twbs/bootstrap
+  3. https://github.com/jquery/jquery
+  4. https://github.com/rails/rails
+  5. https://github.com/spring-projects
 
 
 ### Materiais auxiliares para aprender a usar o GIT:
@@ -84,4 +103,15 @@ Diante do apresentado, minha conclusão pessoal sobre ferramentas de versionamen
 1. https://www.gitkraken.com/ (Linux, Windows e Mac)
 2. https://www.sourcetreeapp.com/ (Windows e Mac)
 3. https://www.syntevo.com/smartgit/ (Linux, Windows e Mac)
+
+## Fontes:
+1. https://blog.pronus.io/posts/o-que-eh-gerencia-de-configuracao-de-software/
+1. https://www.atlassian.com/git/tutorials/what-is-version-control
+1. http://guides.beanstalkapp.com/version-control/intro-to-version-control.html
+1. http://pt.stackoverflow.com/questions/8315/diferen%C3%A7as-entre-git-svn-e-cvs 
+1. http://www.tecmint.com/best-gui-git-clients-git-repository-viewers-for-linux/
+1. https://pt.wikiversity.org/wiki/CVS_x_SVN_x_Git
+1. https://biz30.timedoctor.com/git-mecurial-and-cvs-comparison-of-svn-software/
+1. https://blog.pronus.io/posts/vantagens-e-desvantagens-do-controle-de-versao-distribuido/
+
 
