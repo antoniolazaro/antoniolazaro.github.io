@@ -44,6 +44,10 @@ urls:
       url: /projects/
     - text: Palestras e Eventos
       url: /talks/
+    - text: Formação
+      url: /studies/
+    - text: Carreira
+      url: /carrer/   
     - text: XML Feed
       url: /feed.xml
 

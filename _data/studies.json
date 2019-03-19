@@ -1,0 +1,68 @@
+[
+	{
+		"title": "Capacitação programa TI for Woman Capgemini em desenvolvimento Java e Java WEB",
+		"date": "12/2018 a 01/2019",
+		"tags": ["Capgemini","Instrutor"]
+	},
+	{
+		"title": "TDC (The Developer Conference)",
+		"date": "2017",
+		"tags": ["TDC","Curso","Participante"]
+	},
+	{
+		"title": "Ionic Bootcammp",
+		"date": "2016",
+		"tags": ["Tampa","Curso","Participante"]
+	},
+	{
+		"title": "Java One",
+		"date": "2016",
+		"tags": ["Java One BR","Evento","Participante"]
+	},
+	{
+		"title": "Preparatório Certificação Scrum Master",
+		"date": "2016",
+		"tags": ["Scrum","Elite Training","Curso","Estudante"]
+	},
+	{
+		"title": "Capacitação estagiários Indra em desenvolvimento Java e Java WEB (JSF, EJB e JPA)",
+		"date": "04/2016 a 05/2016",
+		"tags": ["Indra","Instrutor"]
+	},
+	{
+		"title": "Aluno especial MATE70 - Computação Ubíqua e sensível a contexto.",
+		"date": "2016",
+		"tags": ["UFBA","Pós-Graduação","Mestrado","Estudante"]
+	},
+	{
+		"title": "XV Erbase (Encontro regional Bahia x Sergipe",
+		"date": "04/2015",
+		"tags": ["IFBA","Participante","Curso"]
+	},
+	{
+		"title": "Capacitação estudantes Unijorge em desenvolvimento Java e Java WEB (JSF, EJB e JPA)",
+		"date": "09/2014 a 11/2014",
+		"tags": ["Unijorge","Instrutor"]
+	},
+	{
+		"title": "Aluno especial MATE76 - Paradigmas das linguagens de programação",
+		"date": "2012",
+		"tags": ["UFBA","Pós-Graduação","Mestrado","Estudante"]
+	},
+	{
+		"title": "Pós Graduação em Engenharia de Sofware",
+		"date": "01/2010 a 12/2011",
+		"tags": ["Faculdade Ruy Barbosa","Pós-Graduação","Estudante"]
+	},
+	{
+		"title": "SCJP (Sun Certified Java Programmer) 1.4",
+		"date": "2007",
+		"tags": ["Certificação"]
+	},
+	{
+		"title": "Bacharelado em informática",
+		"date": "02/2003 a 06/2008",
+		"tags": ["UCSAL","Graduação","Estudante"]
+	}
+	
+]
