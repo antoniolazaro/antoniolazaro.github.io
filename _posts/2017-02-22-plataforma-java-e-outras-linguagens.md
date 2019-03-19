@@ -1,4 +1,14 @@
-## A plataforma Java, a linguagem Java, a JVM e o suporte a outras linguagens
+---
+layout:     post
+title:      A plataforma Java, a linguagem Java, a JVM e o suporte a outras linguagens
+date:       22/02/2017
+author:     Antonio Lazaro
+summary:    Evolução Java
+categories: java
+thumbnail:  heart
+tags: [java, JVM]
+
+---
 
 Hoje, trocando idéia com [Mateus](https://twitter.com/mmalaquias1) discutiamos sobre o poder da plataforma Java, e em um grupo de WhatsApp que participamos para ajudar estudantes com dúvidas de Java, ele levantou um questionamento se a galera sabia quantas linguagens a [JVM - Java Virtual Machine](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-1.html#jvms-1.2) rodava. Quando falamos a palavra Java, temos que ter consciência que temos dois significados. Uma é referente a [linguagem de programação Java](http://docs.oracle.com/javase/tutorial/java/), a outra é referente [a plataforma Java](http://www.oracle.com/technetwork/java/javase/overview/index.html). A base da plataforma Java, é a JVM. Ela que é responsável por ler o código-fonte, compilar para byte-code e esse é interpretado para código de máquina, no sistema operacional onde a JVM está hospedada.
 

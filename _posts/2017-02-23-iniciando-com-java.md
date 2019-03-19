@@ -1,4 +1,14 @@
-## Iniciando com Java...
+---
+layout:     post
+title:      Iniciando com Java
+date:       23/02/2017
+author:     Antonio Lazaro
+summary:    Evolução Java
+categories: [java,carreira]
+thumbnail:  heart
+tags: [java, carreira]
+
+---
 
 Atualmente, existem diversos materiais na internet que falam sobre a linguagem de programação Java.  Alias, na internet em quase todas meios disponíveis existe algo de Java. Seja no github, youtube, ou sites, é bem tranquilo encontrar material sobre como aprender Java. Mas será que é apenas isso que é necessário para estar habilitado para o mercado de trabalho? No ano passado fizemos pelo [Java Bahia](javabahia.blogspot.com.br) um Tour pelas universidades de Salvador para divulgar a comunidade Java e sentir a demanda dos grupos estudantis. Então, nosso grupo desenvolveu palestras técnicas, sobre comunidade e eu fiquei com a responsabilidade de falar sobre carreira. Então criei [essa apresentação](https://www.slideshare.net/antoniolazarobr/palestra-carreira-java-bahia-meeting-27082016-unijorge-comrcio-salvadorbahia). Mas volta e meia as pessoas perguntam a mesma coisa...Como aprender? Como estudar? O que estudar? Resolvi tentar escrever no post para dar uma direcionada a galera que está começando.
 

@@ -1,20 +1,14 @@
 ---
 layout:     post
-title:      Evolução Java
+title:      Evolução Java (JVM, JDK) 1.4 -> 1.9
 date:       03/01/2017
 author:     Antonio Lazaro
 summary:    Evolução Java
 categories: java
 thumbnail:  heart
-tags:
- - jdk
- - jvm
- - java
+tags: [Jdk,Jvm,java]
 
 ---
-
-Evolução Java (JVM, JDK) 1.4 -> 1.9
-===================
 
 A idéia desse post é apresentar um pouco dos recursos a cada nova release do JDK ao longo do tempo, partindo da versão 1.4 até a versão 9.
 Posteriormente, pretendo abordar como a JVM evoluiu e suporta outras linguagens além do Java.

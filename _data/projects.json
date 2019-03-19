@@ -1,0 +1,53 @@
+[
+	{
+		"slug": "vortice",
+		"name": "Vórtice",
+		"role": "Sócio @ Vortice",
+		"description": "Sócio e responsável pela parte técnica dos projetos.",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "Entre junho de 2013 e Julho de 2016",
+		"tags": ["Startup","Consultoria","Java"]
+	},
+	{
+		"slug": "nuclearis",
+		"name": "Nuclearis",
+		"role": "Team Leader @ Nuclearis",
+		"description": "Responsável por gerenciar o time do produto.",
+		"image": "placeholder.jpg",
+		"url": "http://www.radtec.com.br/inovacao.html",
+		"date": "Entre abril de 2015 e Junho de 2018",
+		"tags": ["Startup","Consultoria","Java"]
+	},
+	{
+		"slug": "javabahia",
+		"name": "Java Bahia",
+		"role": "JUG Leader @ Java Bahia",
+		"description": "JUG Leader",
+		"image": "placeholder.jpg",
+		"url": "http://javabahia.blogspot.com/",
+		"date": "Desde Agosto 2016",
+		"tags": ["Comunidade","Java"]
+	},
+	{
+		"slug": "nosql",
+		"name": "NoSQLBA",
+		"role": "Organização/Palestrante",
+		"description": "Organização do evento.",
+		"image": "placeholder.jpg",
+		"url": "http://nosqlba.com/",
+		"date": "1x por ano. Desde 2017 até hoje",
+		"tags": ["Comunidade","Java"]
+	},
+	{
+		"slug": "consilium",
+		"name": "Consilium PCP",
+		"role": "Software Engineer and architect @ Consilium Group",
+		"description": "Arquitetura e desenvolvimento do software PCP",
+		"image": "placeholder.jpg",
+		"url": "https://www.consiliumsistemas.com/",
+		"date": "Desde Julho 2018",
+		"tags": ["Startup","Consultoria","Java"]
+	}
+	
+]

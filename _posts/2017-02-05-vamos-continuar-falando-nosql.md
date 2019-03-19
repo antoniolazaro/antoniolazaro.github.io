@@ -1,4 +1,14 @@
-## Vamos continuar falando de Nosql
+---
+layout:     post
+title:      Vamos continuar falando de Nosql
+date:       05/02/2017
+author:     Antonio Lazaro
+summary:    Evolução Java
+categories: [nosql,evento]
+thumbnail:  heart
+tags: [nosql,evento]
+
+---
 
 Para quem ainda não sabe nós (Comunidades [Java Bahia](https://twitter.com/javabahia?lang=en) + [Python Bahia](https://groups.google.com/forum/#!forum/grupy-ba) + [Universidade Católica do Salvador - UCSAL](www.ucsal.br)) estamos organizando uma conferência sobre Nosql que acontecerá entre 30/03 e 01/04. Virão nomes de peso sobre o assunto e contamos com apoio de grandes empresas, como [Amazon](https://twitter.com/awscloud?lang=en) e [Microsoft](https://twitter.com/Microsoft?lang=en), além claro, da [UCSAL](https://twitter.com/ucsaloficial?lang=en).
 

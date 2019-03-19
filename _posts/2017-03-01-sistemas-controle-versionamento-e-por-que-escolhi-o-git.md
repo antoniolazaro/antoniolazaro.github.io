@@ -1,4 +1,14 @@
-## Sistemas de controle de versionamento e por quê escolhi o GIT
+---
+layout:     post
+title:      Sistemas de controle de versionamento e por quê escolhi o GIT
+date:       01/03/2017
+author:     Antonio Lazaro
+summary:    Evolução Java
+categories: [git]
+thumbnail:  heart
+tags: [git, cvs]
+
+---
 
 O objetivo desse post é explicar o que é um SCM, exemplificar os tipos e apresentar algumas opções com a recomendação de uma que, acredito que seja o atual padrão de mercado.
 

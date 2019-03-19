@@ -1,38 +1,61 @@
-# Site settings
-title: "Antonio Lazaro"
-email: antonio.lazaro@gmail.com
-description: "Site pessoal Antonio Lazaro Carvalho Borges (Popete)"
+title: Site pessoal de Antonio Lazaro (Popete)
+description: Site pessoal de Antonio Lazaro (Popete)
+author: Antonio Lazaro (Popete)
+github: https://github.com/antoniolazaro
+about: Software Architecht @ Indra Company. Site pessoal Antonio Lazaro (Popete). Site com objetivo de compartilhar experiências e percepções pessoais durante minha jornada...
+disqus_shortname: antoniolazaro-github-io
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "http://twitter.com/antonio_lazaro"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514/"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/antoniolazaro"
+    - icon: fa-gitlab
+      link: "https://gitlab.com/antoniolazaro"
+    - icon: fa-skype
+      link: "@alazaro.carvalho"
+
+share:
+  twitter_username: antonio_lazaro
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Projetos
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://antoniolazaro.dev"
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "Site pessoal Antonio Lazaro Carvalho Borges (Popete). Tentar compartilhar algumas coisas que aprendo ou estudo durante minha jornada"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-google_analytics: "UA-89793946-1"
-disqus_account: antoniolazaro-github-io
-github_repository: https://github.com/jacobtomlinson/carte-noire
-addthis_id: ra-586d63a90af5cb0a
-post_limit: 5
-
-# Social usernames/URLs
-twitter_username: antonio_lazaro
-github_username:  antoniolazaro
-instagram_username: 
-reddit_username: 
-linkedin_link: https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514?trk=nav_responsive_tab_profile
-google_plus_link: https://plus.google.com/106891520454596123796
-stackoverflow_link: http://stackoverflow.com/users/2184464/antoniolazaro?tab=profile
-xing_link:
-facebook_link:
-
-# Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
-
-# Build settings
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
 markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-permalink: pretty
-exclude: [vendor]
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
