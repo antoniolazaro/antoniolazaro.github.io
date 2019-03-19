@@ -30,6 +30,8 @@ social:
       link: "https://gitlab.com/antoniolazaro"
     - icon: fa-skype
       link: "@alazaro.carvalho"
+    - icon: fa-slideshare
+      link: "https://www.slideshare.net/antoniolazarobr"
 
 share:
   twitter_username: antonio_lazaro
@@ -40,6 +42,8 @@ urls:
       url: /about/
     - text: Projetos
       url: /projects/
+    - text: Palestras e Eventos
+      url: /talks/
     - text: XML Feed
       url: /feed.xml
 

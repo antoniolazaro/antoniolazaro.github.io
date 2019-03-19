@@ -4,4 +4,4 @@ title: Projetos e Consultorias
 permalink: /projects/
 ---
 
-Espaço para falar um pouco dos projetos que estou trabalhando.
+Espaço para falar um pouco dos projetos que estou trabalhando ou que já trabalhei.

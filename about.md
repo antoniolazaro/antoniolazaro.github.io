@@ -12,4 +12,10 @@ Starting in 2012, I started research in the area of mobile development, some pil
 Among some technologies I implemented in the development process, I highlight the GIT (implemented in 2012, replacing CVS).
 Learning new tools / technologies and taking on new challenges is what drives me.
 
-email: antonio.lazaro[at]gmail.com
+
+Contato:
+<span><a href="mailto:antonio.lazaro[at]gmail.com" target="_blank">antonio.lazaro[at]gmail.com<i class="fa fa-envelope"></i></a></span>
+<br />
+Mais informações:
+<span><a href="https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
+
