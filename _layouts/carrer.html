@@ -7,34 +7,31 @@ layout: default
     <hr />
   </header>
 
+  <script>
+      document.querySelector('.timeline').timeline();
+    </script>
+  
   <div class="post-content">
-    {{ content }}
-
-    {% assign p_array = "" | split:"|"  %}
-    {% for project in site.project %}
-      {% capture p_slug %}{{ project.url | split:"/" | last }},{{ project.url }}{% endcapture %}
-      {% assign p_slug_arr = p_slug | split:"," %}
-      {% assign p_array = p_array | push: p_slug_arr  %}
-    {% endfor %}
-
-    <div class="projects">
-      
-      {% for i in site.data.carrer %}
-      <div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
-        <div class="project-inner">
-            <h4 class="project-headlines">{{ i.company }}</h4>
-            <h6 class="project-headlines">{{ i.role }}</h6>
-
-            <div class="project-footer">
-              {% if i.url %}
-                <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
-              {% endif %}
-              <span class="project-timeline">{{ i.date }}</span>
+   
+    <div class="timeline">
+        <div class="timeline__wrap">
+            <div class="timeline__items">
+                {% for i in site.data.carrer %}
+                <div class="timeline__item">
+                    <div class="timeline__content">
+                        <h4 class="project-headlines">{{ i.company }}</h4>
+                        <h6 class="project-headlines">{{ i.role }}</h6>
+                        <div class="project-footer">
+                            {% if i.url %}
+                              <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
+                            {% endif %}
+                            <span class="project-timeline">{{ i.date }}</span>
+                          </div>
+                    </div>
+                </div>
+                {% endfor %}             
             </div>
         </div>
-        <hr>
-      </div>
-      {% endfor %}
     </div>
   </div>
 </article>

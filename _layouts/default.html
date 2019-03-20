@@ -98,6 +98,7 @@ layout: compress
     <link rel="stylesheet" href="/static/css/thickbox.css">
     <link rel="stylesheet" href="/static/css/projects.css">
     <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="/static/css/timeline.min.css">
 
     {% if jekyll.environment == "production" %}
       <!-- Google Analytics -->
@@ -184,22 +185,7 @@ layout: compress
     <script src="/static/js/super-search.js"></script>
     <script src="/static/js/thickbox-compressed.js"></script>
     <script src="/static/js/projects.js"></script>
+    <script src="/static/js/timeline.min.js"></script>
 
-    <script>
-      $(document).ready(function(){
-       
-        var words = [
-{text: "Lorem", weight: 13, link: 'http://github.com/mistic100/jQCloud'},
-{text: "Ipsum", weight: 10.5, link: 'http://www.strangeplanet.fr'},
-{text: "Dolor", weight: 9.4, link: 'http://piwigo.org'}
-
-];
-$('.cloud-tags').innerHTML = 'text';
-        $('.cloud-tags').jQCloud(words);
-
-
-      });
-    </script>
-    
   </body>
 </html>
