@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Introdução docker e containers (Hello World em ambientes Linux)
+title:      Introdução docker e containers - Parte 1
 date:       21/03/2019
 author:     Antonio Lazaro
 summary:    Introdução a docker
@@ -29,29 +29,29 @@ Falando rapidamente sobre o conceitual, vamos para a parte prática do objetivo 
 
 Para usuários de Linux Debian based (Ubuntu, Mint). Segue passo a passo. Meu caso, utilizei Mint 19.
 
-1. sudo apt-get update
-1. sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
-1. curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-1. sudo apt-key fingerprint 0EBFCD88
+1. ```sudo apt-get update```
+1. ```sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common```
+1. ```curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -```
+1. ```sudo apt-key fingerprint 0EBFCD88```
 1. Resultado deve ser conforme tela abaixo:
 <br/>![](/static/img/docker-finger-print.png)
-1. sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-1. sudo apt-get update
-1. sudo apt-get install docker-ce docker-ce-cli containerd.io
-1. sudo docker run hello-world
+1. ```sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"```
+1. ```sudo apt-get update```
+1. ```sudo apt-get install docker-ce docker-ce-cli containerd.io```
+1. ```sudo docker run hello-world```
 <br/>![](/static/img/docker-hello-world.png)
-1. Para instalar uma outra imagem com um ubuntu instalado: _*docker run -it ubuntu bash*_
-1. Para sair do Ubuntu digite *exit*
+1. Para instalar uma outra imagem com um ubuntu instalado: ```docker run -it ubuntu bash```
+1. Para sair do Ubuntu digite ```exit```
 
 ### Comandos
 
-1. Listar todas as imagens instaladas: _docker image ls_
+1. Listar todas as imagens instaladas: ```docker image ls```
 <br/>![](/static/img/docker-ls-result.png)
-1. Listar todos processos docker rodando: _docker ps_ ou _docker container ls_
+1. Listar todos processos docker rodando: ```docker ps_``` ou ```docker container ls```
 <br/>![](/static/img/docker-ps-result.png)
-1. Mostrar versão instalada do docker: _docker --version_ ou _docker version_
-1. Help: _docker container --help_
-1. Informações sobre docker na máquina: _docker info_
+1. Mostrar versão instalada do docker: ```docker --version``` ou ```docker version```
+1. Help: ```docker container --help```
+1. Informações sobre docker na máquina: ```docker info```
 
 ### Fontes:
 1. https://docs.docker.com/get-started/
