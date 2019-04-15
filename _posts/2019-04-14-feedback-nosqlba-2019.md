@@ -31,19 +31,19 @@ Quando entrei para o Java Bahia, meu único objetivo era tentar colaborar com o 
 
 Vou tentar esclarecer os feedbacks passados no formulário para que as pessoas entendam como funciona e até participem mais do processo.
 
-### Sobre os assuntos
+## Sobre os assuntos
 
 ![](/static/img/assuntos-nosqlba.jpeg)
 
 Sobre a construção de eventos, abrimos para call 4 papers (c4p) e aguardamos que pessoas tenham o mesmo interesse que nós em compartilhar o que estudam, aplicam no seu dia a dia. Se não temos tópicos sobre mais assuntos, é meramente porque não há submissão. Vontade de fazer evento de 3,4 dias não falta.
 
-### Sobre divulgação
+## Sobre divulgação
 
 ![](/static/img/divulgacao-nosql.jpeg)
 
 Para fazer panfletagem é necessário investimento, para fazer imersão em empresas é necessário um canal de duas vias. Temos isso muito fraco com as empresas que rodam aqui em Salvador. Nos falta, sair da zona do conforto, provocarmos nossos colegas, chefes, gerentes, sobre a importância disso. Vejo poucas empresas apoiarem esse tipo de evento. Esse ano, tivemos apoio da Jus Brasil que nos cedeu dois excelente palestrantes (Andrews Medina e Leonardo Gamas). Mas independente disso, depende basicamente da própria comunidade para que as coisas aconteçam.
 
-### Conclusão   
+## Conclusão   
 
 Eventos gratuitos ou não, normalmente tem baixa adesão e os frequentadores sempre comentam "poxa, pena que deu pouca gente". A minha resposta normalmente sobre isso é: "Que bom que você veio e que bom que aprendeu algo, no próximo tente trazer um colega, ajude na divulgação e assim, cresceremos como grupo, como comunidade.".
 
