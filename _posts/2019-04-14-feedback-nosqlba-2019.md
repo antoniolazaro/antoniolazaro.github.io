@@ -12,10 +12,12 @@ thumbnail:  heart
 
 O objetivo desse post é falar um pouco sobre o estado da organização de eventos técnicos em Salvador e o feedback que tenho recebido de algumas para levantar algumas reflexões sobre a comunidade soteropolitana e juntos pensemos em como melhorarmos a nossa inclusão na construção do conhecimento compartilhado.
 
-## Um pouco de teoria
+## Um pouco sobre o evento
 Escrevi dois posts para trazer <a href="https://javabahia.blogspot.com/2019/04/review-nosqlba-2019-06042019.html" target="_blank">uma visão geral do nosqlba 2019</a> e <a href="https://javabahia.blogspot.com/2019/04/numeros-nosqlba.html" target="_blank">um pouco dos números desse evento.</a>
 
 Esse ano tivemos a participação de 40 pessoas e 1 dia de evento. Em outros anos, o sábado já teve entre 50 e 60 pessoas, e sempre foi o dia mais cheio. Entretanto vieram alguns questionamentos para nós que organizamos sobre canais de divulgação e mecanismos usados.
+
+## Um pouco sobre funcionamento de comunidade
 
 Normalmente utilizamos o <a href="https://twitter.com/javabahia" target="_blank">Twitter do Java Bahia,</a> <a href="https://www.facebook.com/javabahia" target="_blank"> Facebook do Java Bahia</a>, linkin e twitter pessoais dos atuais membros do Java Bahia e através de pedidos de divulgação em grupos de whatsapp, telegram. Normalmente divulgamos os eventos para os coordenadores das principais de faculdade de Salvador, bem como professores, mas não temos como garantir o alcance da chegada disso, até porque, algumas instituições por questões de mercado e concorrência não veem com bons olhos que eventos promovidos em outras instituições sejam divulgados dentro da sua rede.
 
