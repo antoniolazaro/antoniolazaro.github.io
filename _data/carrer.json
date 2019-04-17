@@ -1,9 +1,20 @@
 [
 	{
+		"role": "Arquiteto de software e consultor Técnico",
+		"company": "Consilium Group",
+		"date": "06/2018 até hoje",
+		"url": "https://www.consiliumsistemas.com/"
+	},
+	{
 		"role": "Arquiteto de software",
 		"company": "Indra company",
 		"date": "04/2018 até hoje",
 		"url": "https://www.indracompany.com/es"
+	},
+	{
+		"role": "Consultor Técnico e líder de equipe",
+		"company": "NuclearIS – Nuclear Medicine Digital Solutions",
+		"date": "04/2015 a 06/2018"
 	},
 	{
 		"role": "Arquiteto de software",
@@ -16,6 +27,11 @@
 		"company": "Indra company",
 		"date": "07/2012 a 03/2017",
 		"url": "https://www.indracompany.com/es"
+	},
+	{
+		"role": "Sócio, Arquiteto e líder de equipe",
+		"company": "Vórtice IT",
+		"date": "06/2013 a 06/2016"
 	},
 	{
 		"role": "Analista de sistemas e líder de equipes",

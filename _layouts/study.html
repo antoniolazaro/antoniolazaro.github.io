@@ -18,32 +18,22 @@ layout: default
     {% endfor %}
 
     <div class="projects">
-      {% include studies_tags.html %}
-      
-      {% for i in site.data.studies %}
-      <div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
-        <div class="project-inner">
-            <h4 class="project-headlines">{{ i.title }}</h4>
-           
-            <div class="project-content">
-              <div class="tag-holder">
-                {% if i.tags %}
-                  {% for j in i.tags %}
-                    <span class="tags tag-filter" data-tag="{{ j | downcase }}"><a href="#{{ j }}">{{ j }}</a></span>
-                  {% endfor %}
-                {% endif %}
-              </div>
-            </div>
-            <div class="project-footer">
-              {% if i.url %}
-                <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
-              {% endif %}
-              <span class="project-timeline">{{ i.date }}</span>
+     
+      <div class="timeline">
+        <div class="timeline__wrap">
+            <div class="timeline__items">
+                {% for i in site.data.studies %}
+                <div class="timeline__item">
+                    <div class="timeline__content">
+                        <h4 class="project-headlines">{{ i.title }}</h4>
+                        <h6 class="project-headlines">{{ i.date }}</h6>
+                    </div>
+                </div>
+                {% endfor %}             
             </div>
         </div>
-        <hr>
-      </div>
-      {% endfor %}
+    </div>
+
     </div>
   </div>
 </article>

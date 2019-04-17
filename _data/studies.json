@@ -1,68 +1,43 @@
 [
 	{
-		"title": "Capacitação programa TI for Woman Capgemini em desenvolvimento Java e Java WEB",
-		"date": "12/2018 a 01/2019",
-		"tags": ["Capgemini","Instrutor"]
-	},
-	{
 		"title": "TDC (The Developer Conference)",
-		"date": "2017",
-		"tags": ["TDC","Curso","Participante"]
+		"date": "2017"
 	},
 	{
 		"title": "Ionic Bootcammp",
-		"date": "2016",
-		"tags": ["Tampa","Curso","Participante"]
+		"date": "2016"
 	},
 	{
 		"title": "Java One",
-		"date": "2016",
-		"tags": ["Java One BR","Evento","Participante"]
+		"date": "2016"
 	},
 	{
 		"title": "Preparatório Certificação Scrum Master",
-		"date": "2016",
-		"tags": ["Scrum","Elite Training","Curso","Estudante"]
-	},
-	{
-		"title": "Capacitação estagiários Indra em desenvolvimento Java e Java WEB (JSF, EJB e JPA)",
-		"date": "04/2016 a 05/2016",
-		"tags": ["Indra","Instrutor"]
+		"date": "2016"
 	},
 	{
 		"title": "Aluno especial MATE70 - Computação Ubíqua e sensível a contexto.",
-		"date": "2016",
-		"tags": ["UFBA","Pós-Graduação","Mestrado","Estudante"]
+		"date": "2016"
 	},
 	{
 		"title": "XV Erbase (Encontro regional Bahia x Sergipe",
-		"date": "04/2015",
-		"tags": ["IFBA","Participante","Curso"]
-	},
-	{
-		"title": "Capacitação estudantes Unijorge em desenvolvimento Java e Java WEB (JSF, EJB e JPA)",
-		"date": "09/2014 a 11/2014",
-		"tags": ["Unijorge","Instrutor"]
+		"date": "04/2015"
 	},
 	{
 		"title": "Aluno especial MATE76 - Paradigmas das linguagens de programação",
-		"date": "2012",
-		"tags": ["UFBA","Pós-Graduação","Mestrado","Estudante"]
+		"date": "2012"
 	},
 	{
 		"title": "Pós Graduação em Engenharia de Sofware",
-		"date": "01/2010 a 12/2011",
-		"tags": ["Faculdade Ruy Barbosa","Pós-Graduação","Estudante"]
+		"date": "01/2010 a 12/2011"
 	},
 	{
 		"title": "SCJP (Sun Certified Java Programmer) 1.4",
-		"date": "2007",
-		"tags": ["Certificação"]
+		"date": "2007"
 	},
 	{
 		"title": "Bacharelado em informática",
-		"date": "02/2003 a 06/2008",
-		"tags": ["UCSAL","Graduação","Estudante"]
+		"date": "02/2003 a 06/2008"
 	}
 	
 ]
