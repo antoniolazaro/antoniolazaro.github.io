@@ -1,5 +1,17 @@
 [
 	{
+		"slug": "java-hipster",
+		"name": "Semana Computação Unijorge",
+		"title": "Java também é Hipster.",
+		"description": "Apresentação sobre novidades da plataforma Java.",
+		"company": "Java Bahia JUG",
+		"date": "15/05/2019",
+		"image": "placeholder.jpg",
+		"url":"https://www.slideshare.net/antoniolazarobr/java-pode-serhipster-121072721",
+		"type": "Palestra",
+		"tags": ["Unijorge"]
+	},
+	{
 		"slug": "itexto",
 		"name": "Hangout Itexto",
 		"title": "Podcast da itexto - Resgatando o JSF!",
