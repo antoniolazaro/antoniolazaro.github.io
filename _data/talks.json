@@ -1,5 +1,17 @@
 [
 	{
+		"slug": "itexto",
+		"name": "Hangout Itexto",
+		"title": "Podcast da itexto - Resgatando o JSF!",
+		"description": "Na live de hoje iremos revisitar este monstro do desenvolvimento web que é o JSF. Um monstro que, apesar de não aparecer muito mais na mídia atualmente, ainda paga a conta de muita gente!",
+		"company": "Itexto",
+		"date": "09/05/2019",
+		"image": "placeholder.jpg",
+		"url":"https://www.youtube.com/watch?v=8QROTNqi3bI",
+		"type": "Organização Evento",
+		"tags": ["Canal Itexto (Youtube)"]
+	},
+	{
 		"slug": "nosqlba",
 		"name": "IV NoSQLBA",
 		"title": "NoSQL BA 2019",
