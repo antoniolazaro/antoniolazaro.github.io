@@ -71,8 +71,7 @@ Diante do contexto, percebi que JSF será uma tecnologia focada no mundo Java e 
 
 ## Futuro JSF?
 
-Estive em SP, entre 29/04 e 03/05 e lá, tive a oportunidade de ir a um evento onde [Ed Burns](https://twitter.com/edburns?lang=en)
-{:target="_blank"}, líder das especificações de Servlet e JSF, questionado sobre o futuro do JSF, não deixou muito claro se existe um futuro na especificação principal.
+Estive em SP, entre 29/04 e 03/05 e lá, tive a oportunidade de ir a um evento onde [Ed Burns](https://twitter.com/edburns?lang=en){:target="_blank"}, líder das especificações de Servlet e JSF, questionado sobre o futuro do JSF, não deixou muito claro se existe um futuro na especificação principal.
 
 Na minha visão, como existe a espec para criação do MVC 1.0 que deve ser baseada em algo como o Spring trabalha, acredito que JSF não terá muita evolução. Exceto se algum grupo, empresa ou conjunto de invididuos assuma o projeto e trabalhe nele.
 
