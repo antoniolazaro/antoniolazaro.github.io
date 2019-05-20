@@ -10,6 +10,8 @@ tags: [Jdk,Jvm,java]
 
 ---
 
+## Introdução
+
 A idéia desse post é apresentar um pouco dos recursos a cada nova release do JDK ao longo do tempo, partindo da versão 1.4 até a versão 9.
 Posteriormente, pretendo abordar como a JVM evoluiu e suporta outras linguagens além do Java.
 

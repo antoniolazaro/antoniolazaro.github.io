@@ -9,6 +9,8 @@ thumbnail:  heart
 
 ---
 
+## Introdução
+
 O objetivo desse post é apresentar o recurso Identity do banco Oracle. 
 
 Esse recurso foi implementado a partir da release 12C entretanto já existia nos bancos <a href="https://dev.mysql.com/doc/refman/8.0/en/example-auto-increment.html">Mysql</a>, <a href="https://docs.microsoft.com/en-us/sql/t-sql/statements/create-table-transact-sql-identity-property?view=sql-server-2017">SQL Server e </a> <a href="http://www.postgresqltutorial.com/postgresql-serial/">Postgres.</a>

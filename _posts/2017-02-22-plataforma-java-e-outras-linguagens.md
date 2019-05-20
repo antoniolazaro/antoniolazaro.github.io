@@ -10,6 +10,8 @@ tags: [java, JVM]
 
 ---
 
+## Introdução
+
 Hoje, trocando idéia com [Mateus](https://twitter.com/mmalaquias1) discutiamos sobre o poder da plataforma Java, e em um grupo de WhatsApp que participamos para ajudar estudantes com dúvidas de Java, ele levantou um questionamento se a galera sabia quantas linguagens a [JVM - Java Virtual Machine](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-1.html#jvms-1.2) rodava. Quando falamos a palavra Java, temos que ter consciência que temos dois significados. Uma é referente a [linguagem de programação Java](http://docs.oracle.com/javase/tutorial/java/), a outra é referente [a plataforma Java](http://www.oracle.com/technetwork/java/javase/overview/index.html). A base da plataforma Java, é a JVM. Ela que é responsável por ler o código-fonte, compilar para byte-code e esse é interpretado para código de máquina, no sistema operacional onde a JVM está hospedada.
 
 Mas você sabia que sobre a JVM, é possível executar código de outras linguagens além da linguagem Java? Pois é, conversando com a galera, eles ficaram surpresos, por não saber a diferença entre um e outro, e esse foi o motivo que me incentivou a escrever esse post.

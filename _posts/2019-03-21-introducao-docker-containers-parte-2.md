@@ -8,6 +8,9 @@ categories: [docker,container,devops]
 thumbnail:  heart
 
 ---
+
+## Introdução
+
 ![](/static/img/docker.png)
 
 Continuando a série de posts sobre Docker e containers, baseado na <a href="https://docs.docker.com/get-started/part2/" target="_blank">documentação oficial do docker</a>. 

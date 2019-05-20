@@ -8,6 +8,9 @@ categories: [docker,container,devops]
 thumbnail:  heart
 
 ---
+
+## Introdução
+
 ![](/static/img/docker.png)
 
 O objetivo desse post é mostrar como fazer um hello word com docker no linux

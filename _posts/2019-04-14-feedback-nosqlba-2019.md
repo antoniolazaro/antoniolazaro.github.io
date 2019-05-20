@@ -8,6 +8,9 @@ categories: [evento,nosql]
 thumbnail:  heart
 
 ---
+
+## Introdução
+
 ![](/static/img/nosqlba-2019.jpeg)
 
 O objetivo desse post é falar um pouco sobre o estado da organização de eventos técnicos em Salvador e o feedback que tenho recebido de algumas para levantar algumas reflexões sobre a comunidade soteropolitana e juntos pensemos em como melhorarmos a nossa inclusão na construção do conhecimento compartilhado.

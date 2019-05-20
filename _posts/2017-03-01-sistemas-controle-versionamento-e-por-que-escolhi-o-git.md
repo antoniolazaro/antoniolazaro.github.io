@@ -10,6 +10,8 @@ tags: [git, cvs]
 
 ---
 
+## Introdução
+
 O objetivo desse post é explicar o que é um SCM, exemplificar os tipos e apresentar algumas opções com a recomendação de uma que, acredito que seja o atual padrão de mercado.
 
 Quando trabalhamos em um projeto de software, é bastante comum, compartilharmos o códifo-fonte deste com outros desenvolvedores do time. Quando estamos na faculdade, a primeira ferramenta de backup que usamos são HDs, pendrive, e-mails, mas a medida que o projeto cresce e o número de participantes também. Precisamos ter mais controle sobre as modificações. Em alguns momentos precisamos ter diferentes versões do código e gerenciar isso dentro de arquivos ZIP ou diretórios de computador/HD/Pendrive não é uma tarefa sustentável.
