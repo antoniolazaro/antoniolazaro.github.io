@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Live Itexto sobre JSF.
-date:       16/04/2019
+date:       10/05/2019
 author:     Antonio Lazaro
 summary:    C
 categories: [jsf,web,carreira,java]
