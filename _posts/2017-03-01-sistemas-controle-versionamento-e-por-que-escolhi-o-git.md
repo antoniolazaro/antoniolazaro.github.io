@@ -113,7 +113,7 @@ Diante do apresentado, minha conclusão pessoal sobre ferramentas de versionamen
 2. https://www.sourcetreeapp.com/ (Windows e Mac)
 3. https://www.syntevo.com/smartgit/ (Linux, Windows e Mac)
 
-## Fontes:
+## Outras Fontes:
 1. https://blog.pronus.io/posts/o-que-eh-gerencia-de-configuracao-de-software/
 1. https://www.atlassian.com/git/tutorials/what-is-version-control
 1. http://guides.beanstalkapp.com/version-control/intro-to-version-control.html

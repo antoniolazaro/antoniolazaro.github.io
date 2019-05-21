@@ -133,6 +133,6 @@ Através do <a href="https://hub.docker.com" target="_blank"> portal dockerhub</
 1. ```docker push username/repository:tag```            # Upload tagged image to registry
 1. ```docker run username/repository:tag```                   # Run image from a registry
 
-### Fontes:
+### Outras Fontes:
 1. https://docs.docker.com/get-started/part2/
 1. https://leanpub.com/dockerparadesenvolvedores (*livro Fantástico*) <a href="https://twitter.com/gomex" target="_blank">Autor: Gomex</a>

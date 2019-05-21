@@ -131,7 +131,7 @@ Acredito que a Oracle criou o recurso por uma demanda de mercado. Frameworks de 
 
 Para quem não tem banco Oracle configurado, existe esse artigo de [como instalar um banco Oracle 12C no docker](https://www.oracle.com/technetwork/pt/articles/database-performance/oracle-db12-2-no-docker-4427706-ptb.html){:target="_blank"}.
 
-## Fontes
+## Outras Fontes
 1. [Documentação Oracle](https://docs.oracle.com/database/121/SQLRF/statements_7002.htm){:target="_blank"}
 1. [http://www.oracletutorial.com/oracle-basics/oracle-identity-column/](http://www.oracletutorial.com/oracle-basics/oracle-identity-column/){:target="_blank"}
 1. [https://oracle-base.com/articles/12c/identity-columns-in-oracle-12cr1](https://oracle-base.com/articles/12c/identity-columns-in-oracle-12cr1){:target="_blank"}

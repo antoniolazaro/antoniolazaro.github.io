@@ -92,7 +92,7 @@ Vocês já tiveram experiência similares com banco de dados? Compartilhe um pou
 
 Para quem não tem banco Oracle configurado, existe esse artigo de [como instalar um banco Oracle 12C no docker](https://www.oracle.com/technetwork/pt/articles/database-performance/oracle-db12-2-no-docker-4427706-ptb.html){:target="_blank"}.
 
-## Fontes
+## Outras Fontes
 1. [Documentação Oracle sobre transporte de dados](https://docs.oracle.com/database/121/ADMIN/transport.htm#ADMIN11397){:target="_blank"}
 1. [Tabela de erros](https://docs.oracle.com/database/121/ERRMG/UDI-00001.htm#ERRMG-GUID-1D460B47-3D90-4FE9-A9B8-7C8FF74E2B4B){:target="_blank"}
 1. [Artigo que apresenta recursos](https://oracle-base.com/articles/10g/oracle-data-pump-10g#TableExpImp){:target="_blank"}

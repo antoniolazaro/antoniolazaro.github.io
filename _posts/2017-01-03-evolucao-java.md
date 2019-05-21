@@ -184,7 +184,7 @@ O lançamento estava previsto para 22/09/2016. A Oracle mudou para 23/03/2017 e 
 ![fonte: https://blogs.oracle.com/java/jdk-9-categories](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/9f78fc09-faec-4068-82bd-09e7cc8bbf34/Image/05d573b4e13da18bf6a372dce5bf175b/screen_shot_2016_09_08_at_7_30_30_am.png)
 
 ----------
-Fontes (**Links:**)
+## Outras Fontes (**Links:**)
 
 * https://blogs.oracle.com/java/jdk-9-categories 
 * https://en.wikipedia.org/wiki/Java_version_history 

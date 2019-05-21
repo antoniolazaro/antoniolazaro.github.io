@@ -56,7 +56,7 @@ Para usuários de Linux Debian based (Ubuntu, Mint). Segue passo a passo. Meu ca
 1. Help: ```docker container --help```
 1. Informações sobre docker na máquina: ```docker info```
 
-### Fontes:
+### Outras Fontes:
 1. https://docs.docker.com/get-started/
 1. https://docs.docker.com/install/
 1. https://leanpub.com/dockerparadesenvolvedores (*livro Fantástico*) <a href="https://twitter.com/gomex" target="_blank">Autor: Gomex</a>
