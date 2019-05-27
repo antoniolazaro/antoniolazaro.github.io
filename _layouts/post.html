@@ -11,6 +11,16 @@ layout: default
     &raquo; {% for category in page.categories %}<a href="/category/{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
   </span>
 {% endif %}
+<span class="reading-time" title="Tempo estimado de leitura">
+ (aproximadamente
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+    1 minuto de leitura)
+  {% else %}
+      {{ words | divided_by:180 }} minutos de leitura)
+  {% endif %}
+</span>
+
 
 <div class="content">
   <div class="post">{{ content }}</div>
