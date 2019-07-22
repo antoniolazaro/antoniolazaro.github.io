@@ -11,6 +11,8 @@ thumbnail:  heart
 
 ## Introdução
 
+**Atualizado em 22/07/2018**
+
 O mundo Java tem duas especificações para trabalhar com a parte de Webservices. [Jax-WS](https://docs.oracle.com/javaee/6/tutorial/doc/bnayl.html){:target="_blank"} e [JAX-RS](https://docs.oracle.com/javaee/6/tutorial/doc/giepu.html){:target="_blank"}. JAX-WS foca na criação de serviços e clientes que seguem atendem a comunicação de serviços usando o [protocolo SOAP](https://searchmicroservices.techtarget.com/definition/SOAP-Simple-Object-Access-Protocol){:target="_blank"}.
 
 ## Um pouco sobre integração entre sistemas
@@ -32,11 +34,13 @@ EmployeeRecordsManagementPort customerPort = service.getPort(EmployeeRecordsMana
 
 		BindingProvider bindingProvider = (BindingProvider) customerPort;
 		Map<String, Object> context = bindingProvider.getRequestContext();
-		context.put("com.sun.xml.internal.ws.connect.timeout", TIMEOUT_EM_MS);
-		context.put("com.sun.xml.internal.ws.request.timeout", TIMEOUT_EM_MS);
+		//context.put("com.sun.xml.internal.ws.connect.timeout", TIMEOUT_EM_MS);
+		//context.put("com.sun.xml.internal.ws.request.timeout", TIMEOUT_EM_MS);
+		context.put("weblogic.wsee.transport.connection.timeout", TIMEOUT_EM_MS);
+        context.put("weblogic.wsee.transport.read.timeout", TIMEOUT_EM_MS);
 ```
 
-Entretanto, ainda assim, quando o serviço estava fora, tinhamos problema porque não se tratava de tempo de resposta do serviço e sim uma indisponibilidade total. Eu acreditava que o parâmetro **com.sun.xml.internal.ws.connect.timeout** serviria para isso, porém no meu ambiente isso não funcionou.
+Entretanto, ainda assim, quando o serviço estava fora, tinhamos problema porque não se tratava de tempo de resposta do serviço e sim uma indisponibilidade total. Eu acreditava que o parâmetro **com.sun.xml.internal.ws.connect.timeout** serviria para isso, porém no meu ambiente isso não funcionou. [Atualização]Ao encontrar as propriedades weblogic.wsee.transport.connection.timeout e weblogic.wsee.transport.read.timeout, a configuração do timeout funcionou, com o código acima.[/Atualização]
 
 Eu estou trabalhando com Java 8 e Weblogic 12.2.3c e a única forma que encontrei do timeout funcionar foi definindo a URL, conforme código abaixo:
 
