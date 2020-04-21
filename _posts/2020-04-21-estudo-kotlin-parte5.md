@@ -172,8 +172,6 @@ Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores 
 
 ## Outras Fontes:
 
-https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html
-https://kotlinlang.org/docs/tutorials/kotlin-for-py/objects-and-companion-objects.html#companion-objects
-https://kotlinlang.org/docs/reference/operator-overloading.html
-https://kotlinlang.org/docs/reference/data-classes.html
-https://kotlinlang.org/docs/reference/enum-classes.html
+- https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html
+- https://kotlinlang.org/docs/reference/operator-overloading.html
+- https://kotlinlang.org/docs/reference/data-classes.html
