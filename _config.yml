@@ -2,7 +2,7 @@ title: Site pessoal de Antonio Lazaro (Popete)
 description: Site pessoal de Antonio Lazaro (Popete)
 author: Antonio Lazaro (Popete)
 github: https://github.com/antoniolazaro
-about: Software Architecht @ Indra Company. Site pessoal Antonio Lazaro (Popete). Site com objetivo de compartilhar experiências e percepções pessoais durante minha jornada...
+about: Software Engineer @ Jaya Tech. Site pessoal Antonio Lazaro (Popete). Site com objetivo de compartilhar experiências e percepções pessoais durante minha jornada...
 disqus_shortname: antoniolazaro-github-io
 google_analytics: UA-140857847-1
 avatar_url: /static/img/avatar.png
@@ -16,40 +16,40 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-twitter
-      link: "http://twitter.com/antonio_lazaro"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514/"
-    - icon: fa-github
-      link: "https://github.com/antoniolazaro"
-    - icon: fa-gitlab
-      link: "https://gitlab.com/antoniolazaro"
-    - icon: fa-skype
-      link: "@alazaro.carvalho"
-    - icon: fa-slideshare
-      link: "https://www.slideshare.net/antoniolazarobr"
-    - icon: fa-stack-exchange
-      link: "#"
-    
+  - icon: fa-twitter
+    link: "http://twitter.com/antonio_lazaro"
+  - icon: fa-linkedin
+    link: "https://www.linkedin.com/in/antonio-lazaro-carvalho-borges-a78a1514/"
+  - icon: fa-github
+    link: "https://github.com/antoniolazaro"
+  - icon: fa-gitlab
+    link: "https://gitlab.com/antoniolazaro"
+  - icon: fa-skype
+    link: "@alazaro.carvalho"
+  - icon: fa-slideshare
+    link: "https://www.slideshare.net/antoniolazarobr"
+  - icon: fa-stack-exchange
+    link: "#"
+
 share:
   twitter_username: antonio_lazaro
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: Carreira
-      url: /carrer/   
-    - text: Formação
-      url: /studies/
-    - text: Projetos
-      url: /projects/
-    - text: Palestras e Eventos
-      url: /talks/
-    - text: Treinamentos (Instrutor)
-      url: /trainning/
-    - text: XML Feed
-      url: /feed.xml
+  - text: About Me
+    url: /about/
+  - text: Carreira
+    url: /carrer/
+  - text: Formação
+    url: /studies/
+  - text: Projetos
+    url: /projects/
+  - text: Palestras e Eventos
+    url: /talks/
+  - text: Treinamentos (Instrutor)
+    url: /trainning/
+  - text: XML Feed
+    url: /feed.xml
 
 url: "https://antoniolazaro.dev"
 baseurl: ""
@@ -66,4 +66,4 @@ compress_html:
   comments: ["<!-- ", " -->"]
   endings: all
   ignore:
-    envs: ['development']
+    envs: ["development"]
