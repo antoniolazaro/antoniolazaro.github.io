@@ -45,6 +45,7 @@ Por ser feito pela JetBrains, nos meus testes, minha perceção de melhor uso e 
 ## Características
 
 - Fortemente tipada: Como Java, porém de maneira mais simples devido a inferência de tipo.
+- Inferência de tipo: Tipo não precisa ser declarado, ele é inferido na associação com o objeto.
 - Concisa: Linguagem pensada para o dev escrever objetivamente seu código.
 - Null Safe: Kotlin é pensada para evitar NullPointerException. Para declarar null a uma variável é necessário definir que a aquela variável suporta null explicitamente.
 - Propósito geral: Mobile cross-platform, server side, native (windows/linux/mac), web development, - Android, data Science
@@ -52,6 +53,9 @@ Por ser feito pela JetBrains, nos meus testes, minha perceção de melhor uso e 
 - Tool-friendly: Suportada nas principais IDEs, inclusive na linha de comando.
 - Funcional/Orientad a objetos: Suporta os dois paradigmas
 - Extension functions: É possível se extender funcionalidades de uma classe sem usar herança
+- Suporte a imutabilidade: Objetos podem ser considerados imutáveis (não podem sofrer nova atribuição) e esse recurso é muito importante quando falamos de programação funcional.
+- Linguagem concisa para criação de DSLs (Domain Specification Language)
+- Suporta funções como cidadãos de primeira classe e função de ordem superior [explicação melhor sobre os temas](https://leandromoh.gitbooks.io/tcc-paradigmas-de-programacao/5_paradigma_funcional/54_funcoes_de_primeira_classe_e_de_ordem_superior.html)
 
 ## Conclusão
 
