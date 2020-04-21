@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Aprendizado Kotlin - Alguns recursos da linguagem - parte 2 (Funções)
+title: Aprendizado Kotlin - Alguns recursos da linguagem - Funções
 date: 21/04/2020
 author: Antonio Lazaro
-summary: Aprendizado Kotlin - Alguns recursos da linguagem - parte 2 (Funções)
+summary: Aprendizado Kotlin - Alguns recursos da linguagem - Funções
 categories: [kotlin]
 thumbnail: heart
 ---
