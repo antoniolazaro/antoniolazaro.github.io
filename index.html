@@ -7,6 +7,16 @@ layout: default
   <h5>Posts escritos até o momento: {{ paginator.total_posts }}</h5>
   <hr />
 
+  <h2>Séries</h2>
+  <ol class="posts">
+    <li>
+      <a href="kotlin/2020/04/20/estudo-kotlin-indice-serie.html"
+        >Aprendendo Kotlin</a
+      >&raquo;
+      <i><span>Iniciada em 04/2020</span></i>
+    </li>
+  </ol>
+  <h2>Todos Posts</h2>
   <ol class="posts">
     {% for post in paginator.posts %}
     <li>
