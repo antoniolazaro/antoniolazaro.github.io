@@ -10,15 +10,15 @@ thumbnail: heart
 
 ## Introdução
 
-Durante o [curso de Kevin Jones "Getting Started with Kotlin" da Plural Sight](https://app.pluralsight.com/library/courses/kotlin-getting-started/table-of-contents) tive oportunidade de conhecer alguns conceitos de Kotlin que achei bastante interessante e resolver compartilhar.
+Durante o [curso de Kevin Jones "Getting Started with Kotlin" da Plural Sight](https://app.pluralsight.com/library/courses/kotlin-getting-started/table-of-contents){:target="\_blank"} tive oportunidade de conhecer alguns conceitos de Kotlin que achei bastante interessante e resolver compartilhar.
 
-No próprio site da linguagem, existem [vários tutoriais](https://kotlinlang.org/docs/tutorials/) e [recomendações de livros](https://kotlinlang.org/docs/books.html), alem do próprio [Getting Started do site que fala de diversas características e recursos da linguagem e ferramentas associadas](https://kotlinlang.org/docs/tutorials/getting-started.html). Achei também o [guia de referência da linguagem muito rico e completo](https://kotlinlang.org/docs/reference/).
+No próprio site da linguagem, existem [vários tutoriais](https://kotlinlang.org/docs/tutorials/) e [recomendações de livros](https://kotlinlang.org/docs/books.html){:target="\_blank"}, alem do próprio [Getting Started do site que fala de diversas características e recursos da linguagem e ferramentas associadas](https://kotlinlang.org/docs/tutorials/getting-started.html){:target="\_blank"}. Achei também o [guia de referência da linguagem muito rico e completo](https://kotlinlang.org/docs/reference/){:target="\_blank"}.
 
-Para quem se interessa pela estrutura da linguagem, existe disponível também a [gramática da linguagem](https://kotlinlang.org/docs/reference/grammar.html).
+Para quem se interessa pela estrutura da linguagem, existe disponível também a [gramática da linguagem](https://kotlinlang.org/docs/reference/grammar.html){:target="\_blank"}.
 
 ## Recursos da linguagens observadores e experimentados
 
-Nessa seção, pretendo falar de alguns recursos que pude experimentar durante o curso, e pratiquei em um projeto piloto que está disponível em um repositório no meu github onde pretendo colocar os demos do que ando testando com Kotlin. Esse repositório é o [kotlin-lab](https://github.com/antoniolazaro/kotlin-lab).
+Nessa seção, pretendo falar de alguns recursos que pude experimentar durante o curso, e pratiquei em um projeto piloto que está disponível em um repositório no meu github onde pretendo colocar os demos do que ando testando com Kotlin. Esse repositório é o [kotlin-lab](https://github.com/antoniolazaro/kotlin-lab){:target="\_blank"}.
 
 ### Declaração de variáveis e propriedades: val x var - Suporte a imutabilidade de objetos nativamente
 
