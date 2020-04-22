@@ -190,7 +190,8 @@ layout: compress
             class="sidebar-nav"
             style="width: 300px; height: 200px; overflow: auto;"
           >
-            {% for category in site.categories %} {% capture category_slug %}{{
+            {% assign sortedCategories = site.categories | sort %} {% for
+            category in sortedCategories %} {% capture category_slug %}{{
             category | first }}{% endcapture %} {% for c_slug in category_slug
             %}
             <li><a href="/category/{{ c_slug }}">{{ c_slug }}</a></li>
