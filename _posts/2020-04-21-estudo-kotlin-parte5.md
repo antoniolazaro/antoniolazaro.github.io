@@ -168,7 +168,7 @@ println("$name, $age years of age") // prints "Jane, 35 years of age"
 
 ## Conclusão
 
-Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo. Próximo passo, é fazer algum projeto demo usando a linguagem.
+Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo.
 
 ## Outras Fontes:
 

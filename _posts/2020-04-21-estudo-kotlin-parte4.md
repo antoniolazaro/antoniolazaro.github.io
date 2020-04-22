@@ -137,7 +137,7 @@ A referência this, dentro da implementação da função, corresponde a classe 
 
 ## Conclusão
 
-Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo. Próximo passo, é fazer algum projeto demo usando a linguagem.
+Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo.
 
 ## Outras Fontes:
 
