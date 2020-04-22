@@ -8,6 +8,9 @@ categories: [kotlin]
 thumbnail: heart
 ---
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Introdução
 
 Durante o [curso de Kevin Jones "Getting Started with Kotlin" da Plural Sight](https://app.pluralsight.com/library/courses/kotlin-getting-started/table-of-contents){:target="\_blank"} tive oportunidade de conhecer alguns conceitos de Kotlin que achei bastante interessante e resolver compartilhar.
@@ -270,6 +273,9 @@ println(minusList)
 
 Nesse estudo, comparei com Java as estruturas básicas de programação com Kotlin. Nos próximos, pretendo trazer outros recursos que a linguagem oferece.
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Outras Fontes:
 
 - Sobre atributos, variáveis (mutáveis ou não), constantes
@@ -297,3 +303,6 @@ Nesse estudo, comparei com Java as estruturas básicas de programação com Kotl
 
 - Collections:
   <br/> -- https://kotlinlang.org/docs/tutorials/kotlin-for-py/collections.html
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

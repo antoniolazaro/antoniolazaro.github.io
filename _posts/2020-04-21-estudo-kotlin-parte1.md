@@ -8,6 +8,9 @@ categories: [kotlin]
 thumbnail: heart
 ---
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Introdução
 
 Ontem iniciei um novo ciclo profissional e agora faço parte do time da [Jaya Tech](https://jaya.tech/){:target="\_blank"} trabalhando para o [C6 Bank](https://www.c6bank.com.br){:target="\_blank"}. Enquanto os acessos são criados/liberados, tive a oportunidade de ir me familiarizando mais com a linguagem utilizada no projeto que ficarei alocado. A principo a Stack trabalha com Kotlin e por esse motivo tenho que aprender a linguagem e conhecer suas características.
@@ -63,6 +66,9 @@ Meu primeiro contato foi muito positivo com a linguagem e encontrei em Kotlin, r
 
 A ciência é algo muito bonito. Vamos valorizar.
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Outras Fontes:
 
 - https://www.treinaweb.com.br/blog/kotlin-a-nova-linguagem-oficial-para-desenvolvimento-android/
@@ -70,3 +76,6 @@ A ciência é algo muito bonito. Vamos valorizar.
 - https://blog.matheuscastiglioni.com.br/comecando-com-kotlin/
 - https://cafeinacodificada.com.br/kotlin/
 - https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

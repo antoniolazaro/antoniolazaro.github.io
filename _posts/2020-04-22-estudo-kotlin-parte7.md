@@ -8,6 +8,9 @@ categories: [kotlin]
 thumbnail: heart
 ---
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Introdução
 
 Continuando aprendizado e descoberta sobre Kotlin. Falaremos sobre Object e Companion Object, interfaces e herança.
@@ -292,12 +295,113 @@ super<B>.foo()
 }
 {% endhighlight %}
 
+### Delegation
+
+Se você deseja usar em uma classe que já implementou uma determinada interface, é possível usar o recurso de delegation através da palavra _by_.
+
+{% highlight kotlin %}
+interface Base {
+fun printMessage()
+fun printMessageLine()
+}
+
+class BaseImpl(val x: Int) : Base {
+override fun printMessage() { print(x) }
+override fun printMessageLine() { println(x) }
+}
+
+class Derived(b: Base) : Base by b {
+override fun printMessage() { print("abc") }
+}
+
+fun main() {
+val b = BaseImpl(10)
+Derived(b).printMessage()
+Derived(b).printMessageLine()
+}
+
+{% endhighlight %}
+
+### Delegated Property
+
+Em Kotlin é possível definir comportamentos complementares para propriedades de uma classe. Nativamente a linguagem oferece a possibilidade de definir Delegates que implementam comportamento para os contextos abaixo:
+
+- lazy: Define um comportamento para o primeiro acesso a propriedade
+- observable: Define um comportamento para qualquer mudança nessa propriedade.
+- storing: Define um map para guardar a propriedade.
+
+Exemplos:
+
+#### Lazy
+
+{% highlight kotlin %}
+val lazyValue: String by lazy {
+println("computed!")
+"Hello"
+}
+
+fun main() {
+println(lazyValue)
+println(lazyValue)
+}
+{% endhighlight %}
+
+#### Observable
+
+{% highlight kotlin %}
+import kotlin.properties.Delegates
+
+class User {
+var name: String by Delegates.observable("<no name>") {
+prop, old, new ->
+println("$old -> $new")
+}
+}
+
+fun main() {
+val user = User()
+user.name = "first"
+user.name = "second"
+}
+{% endhighlight %}
+
+#### Storing
+
+{% highlight kotlin %}
+
+class User(val map: Map<String, Any?>) {
+val name: String by map
+val age: Int by map
+}
+val user = User(mapOf(
+"name" to "John Doe",
+"age" to 25
+))
+println(user.name) // Prints "John Doe"
+println(user.age) // Prints 25
+
+class MutableUser(val map: MutableMap<String, Any?>) {
+var name: String by map
+var age: Int by map
+}
+{% endhighlight %}
+
 ## Conclusão
 
 Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo.
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:
 
 - https://kotlinlang.org/docs/reference/classes.html
 - https://kotlinlang.org/docs/reference/object-declarations.html
 - https://kotlinlang.org/docs/reference/properties.html
+- https://kotlinlang.org/docs/tutorials/kotlin-for-py/inheritance.html
+- https://kotlinlang.org/docs/reference/delegation.html
+- https://kotlinlang.org/docs/reference/interfaces.html
+- https://kotlinlang.org/docs/reference/delegated-properties.html
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

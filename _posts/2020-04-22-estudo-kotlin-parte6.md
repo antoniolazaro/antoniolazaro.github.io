@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Aprendizado Kotlin - Alguns recursos da linguagem - Outros tipos de classes
-date: 21/04/2020
+date: 22/04/2020
 author: Antonio Lazaro
 summary: Aprendizado Kotlin - Alguns recursos da linguagem - Outros tipos de classes
 categories: [kotlin]
 thumbnail: heart
 ---
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Introdução
 
@@ -134,6 +137,9 @@ Recurso disponível na linguagem, a partir da versão 1.3 e atualmente para faze
 
 Até o momento, me parece que Kotlin resolve muitos problemas de design do Java e vem como uma opção muito moderna para quem trabalha usando a JVM. Até o momento, o aprendizado tem sido bastante produtivo.
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Outras Fontes:
 
 - https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html
@@ -142,3 +148,6 @@ Até o momento, me parece que Kotlin resolve muitos problemas de design do Java 
 - https://kotlinlang.org/docs/reference/nested-classes.html
 - https://kotlinlang.org/docs/reference/inline-classes.html
 - https://kotlinlang.org/docs/reference/inline-classes.html#experimental-status-of-inline-classes
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

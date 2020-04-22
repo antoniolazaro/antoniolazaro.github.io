@@ -8,6 +8,9 @@ categories: [kotlin]
 thumbnail: heart
 ---
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Introdução
 
 Continuando aprendizado e descoberta sobre Kotlin. Falaremos sobre classes e objetos
@@ -164,14 +167,39 @@ Similar ao JavaScript, é possível quebrar propriedades do objeto em variáveis
 val jane = User("Jane", 35)
 val (name, age) = jane
 println("$name, $age years of age") // prints "Jane, 35 years of age"
+
+//como compilador gera o código.
+val name = person.component1()
+val age = person.component2()
+{% endhighlight %}
+
+Retornando dois valores de uma função:
+
+{% highlight kotlin %}
+data class Result(val result: Int, val status: Status)
+fun function(...): Result {
+// computations
+
+return Result(result, status)
+}
+
+// Now, to use this function:
+val (result, status) = function(...)
 {% endhighlight %}
 
 ## Conclusão
 
 Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo.
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Outras Fontes:
 
 - https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html
 - https://kotlinlang.org/docs/reference/operator-overloading.html
 - https://kotlinlang.org/docs/reference/data-classes.html
+- https://kotlinlang.org/docs/reference/multi-declarations.html
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

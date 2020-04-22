@@ -8,6 +8,9 @@ categories: [kotlin]
 thumbnail: heart
 ---
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Introdução
 
 A [Plural Sight](https://www.pluralsight.com/offer/2020/free-april-month){:target="\_blank"} está com uma promoção para o mês de abril onde os cursos da plataforma estão todos abertos devido a situação da COVID-19. Diante disso, me cadastrei na plataforma e fiz o curso ["Getting Started With Kotlin"](https://app.pluralsight.com/library/courses/8251eea9-5847-4881-bc94-1c3e0dc8b42e/table-of-contents){:target="\_blank"} by [Kevin Jones](https://app.pluralsight.com/profile/author/kevin-jones){:target="\_blank"} (conta dele no [twitter:](https://twitter.com/kevinrjones?lang=en){:target="\_blank"}).
@@ -63,5 +66,8 @@ Dificilmente, alguém utilizará para projetos reais a estrutura acima, de execu
 ## Conclusão
 
 Até o momento, estou utilizando IntelliJ como IDE para programar em Kotlin e tenho gostado do resultado. Achei conceitualmente muito parecido com Java, porém mais simples. A interoperabilidade com Java é muito bem feita para os testes incialmente feitos.
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:

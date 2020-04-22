@@ -8,6 +8,9 @@ categories: [kotlin]
 thumbnail: heart
 ---
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Introdução
 
 Continuando aprendizado e descoberta sobre Kotlin. Falaremos sobre funções
@@ -139,8 +142,14 @@ A referência this, dentro da implementação da função, corresponde a classe 
 
 Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo.
 
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+
 ## Outras Fontes:
 
 - https://kotlinlang.org/docs/tutorials/kotlin-for-py/functions.html
 - https://kotlinlang.org/docs/reference/extensions.html
 - https://kotlinlang.org/docs/reference/functions.html
+
+<br/>
+[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
