@@ -12,7 +12,7 @@ thumbnail: heart
 
 O objetivo desse post é colocar ordem na série de posts sobre o estudo e aprendizado sobre Kotlin.
 
-### Índice
+### Índice (ordenado cronologicamente)
 
 1. [Motivação, história da linguagem, ambiente de desenvolvimento e características]({% link _posts/2020-04-21-estudo-kotlin-parte1.md %})
 1. [Ambiente de desenvolvimento, Hello World, IDEs]({% link _posts/2020-04-21-estudo-kotlin-parte2.md %})
@@ -24,3 +24,4 @@ O objetivo desse post é colocar ordem na série de posts sobre o estudo e apren
 1. [Recursos da linguagem: Modificadores de acesso, Type Aliases, Null Safety, Cast/Type Casts e Interoperabilidade entre Java e Kotlin no mesmo projeto]({% link _posts/2020-04-22-estudo-kotlin-parte8.md %})
 1. [Recursos da linguagem: Exceptions]({% link _posts/2020-04-22-estudo-kotlin-parte9.md %})
 1. [Recursos da linguagem: Kotlin Ranges]({% link _posts/2020-05-01-estudo-kotlin-parte10.md %})
+1. <a href="/kotlin/2020/05/01/estudo-kotlin-parte11.html">Recursos da linguagem: Palavras chaves, identificadores, gramática e código-fonte da linguagem</a>
