@@ -23,3 +23,4 @@ O objetivo desse post é colocar ordem na série de posts sobre o estudo e apren
 1. [Recursos da linguagem: Herança, Classe abstrata, sobrescrita, Object Expressions, Object Declarations, Companion Object, Interfaces, Delegation, Delegation Properties]({% link _posts/2020-04-22-estudo-kotlin-parte7.md %})
 1. [Recursos da linguagem: Modificadores de acesso, Type Aliases, Null Safety, Cast/Type Casts e Interoperabilidade entre Java e Kotlin no mesmo projeto]({% link _posts/2020-04-22-estudo-kotlin-parte8.md %})
 1. [Recursos da linguagem: Exceptions]({% link _posts/2020-04-22-estudo-kotlin-parte9.md %})
+1. [Recursos da linguagem: Kotlin Ranges]({% link _posts/2020-05-01-estudo-kotlin-parte10.md %})
