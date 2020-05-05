@@ -80,10 +80,10 @@ Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores 
 
 ## Outras Fontes:
 
-https://kotlinlang.org/docs/reference/keyword-reference.html
-https://www.programiz.com/kotlin-programming/keywords-identifiers
-https://beginnersbook.com/2017/12/kotlin-keywords-identifiers/
-https://medium.com/jay-tillu/keywords-in-kotlin-a429247a1802
+- https://kotlinlang.org/docs/reference/keyword-reference.html
+- https://www.programiz.com/kotlin-programming/keywords-identifiers
+- https://beginnersbook.com/2017/12/kotlin-keywords-identifiers/
+- https://medium.com/jay-tillu/keywords-in-kotlin-a429247a1802
 
 <br/>
 [Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
