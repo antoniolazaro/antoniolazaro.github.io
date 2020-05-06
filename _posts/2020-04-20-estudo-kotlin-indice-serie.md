@@ -28,3 +28,4 @@ O objetivo desse post é colocar ordem na série de posts sobre o estudo e apren
 1. [Recursos da linguagem: Kotlin Ranges]({% link _posts/2020-05-01-estudo-kotlin-parte10.md %})
 1. <a href="/kotlin/2020/05/01/estudo-kotlin-parte11.html">Recursos da linguagem: Palavras chaves, identificadores, gramática e código-fonte da linguagem</a>
 1. <a href="/kotlin/2020/05/05/estudo-kotlin-parte12.html">Recursos da linguagem: Função repeat</a>
+1. <a href="/kotlin/2020/05/05/estudo-kotlin-parte13.html">When, uma versão melhorada do switch do Java</a>
