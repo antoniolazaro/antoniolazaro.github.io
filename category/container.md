@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: container
-title: Introdução sobre o blog
+title: Tudo sobre container
 permalink: /category/container
 ---
