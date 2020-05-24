@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melhorando estabilidade da rede wifi usando redes mesh
+title: Melhorando estabilidade da rede wifi em tempos de home-office (Repetidor x Powerline x Rede Mesh)
 date: 23/05/2020
 author: Antonio Lazaro
-summary: Melhorando estabilidade da rede wifi usando redes mesh
+summary: Melhorando estabilidade da rede wifi em tempos de home-office (Repetidor x Powerline x Rede Mesh)
 categories: [home-office]
 thumbnail: heart
 ---
@@ -15,7 +15,7 @@ thumbnail: heart
 ![](/static/img/home-office/network_product_HGB10R-02.png)
 <br/>
 
-O modem/roteador acima é o Humax HGB10R-02 que a Claro/Net Virtua oferece nos seus planos. Aqui em casa, tenho contrato um plano de 120GB e atendia bem. Aconteciam quedas intermitentes, porém suportáveis. Mudei de trabalho, e sigo home-office, porém acredito que tenho mais necessidade de internet que o job anterior, uma vez que agora eu trabalho em um desktop virtual.
+O modem/roteador acima é o Humax HGB10R-02 que a Claro/Net Virtua oferece nos seus planos. Aqui em casa, tenho um plano de 120GB e atendia bem. Aconteciam quedas intermitentes, porém suportáveis. Mudei de trabalho, e sigo home-office, porém acredito que tenho mais necessidade de internet que o job anterior, uma vez que agora eu trabalho em um desktop virtual.
 
 Diante disso, vinha percebendo uma instabilidade maior para meu contexto, que talvez, no outro cenário acontecia, mas como eu não precisava da internet 100% do tempo, não percebia.
 
@@ -43,7 +43,7 @@ Uma outra grande vantagem, no modem da Claro/Net, se você quiser conectar no Wi
 
 Existem dois modelos do Twibi (Fast e Giga), o fast é para rede com conexões abaixo de 100MB e a rede Giga é para redes com velocidade de conexão acima de 100 MB. Outra diferença é que o Fast cria uma rede normal (transmissão de dados até 100mbps) e o Giga cria uma rede Giga (transmissão de dados a 1000mbps).
 
-O funcionamento é bastante simples, e o Twibi tem um aplicativo do celular que você consegue configurar a rede, configurar um mini-proxy (defini quais URLs são proibidas ou não), consegue configurar rede wifi pra visitantes, limitar horário de acesso por device, remover acesso de devices, enfim. Recursos de administração de rede na palma da mão.
+O funcionamento é bastante simples, e o Twibi tem um aplicativo do celular que você consegue configurar a rede, configurar um mini-proxy (define quais URLs são proibidas ou não), consegue configurar rede wifi pra visitantes, limitar horário de acesso por device, remover acesso de devices, enfim. Recursos de administração de rede na palma da mão.
 
 Essa foi a minha escolha e até o momento melhorou muito a distribuição da internet aqui de casa. Não preciso de cabos porque melhorou o sinal wifi.
 
