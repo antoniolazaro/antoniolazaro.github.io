@@ -8,6 +8,13 @@ categories: [soft-skills]
 thumbnail: heart
 ---
 
+## Índice (ordenado cronologicamente)
+
+O objetivo dessa série é compartilhar o aprendizado que vou tendo sobre temas dentro dessa área, compartilhando leituras e indicação de livros/artigos/cursos, vou registrando cronologicamente os posts associados a medida que for escrevendo.
+
+1. - [Inteligência Emocional](/soft-skills/2020/05/31/soft-skill-inteligencia-emocional.html){:target="\_blank"}
+1. - [Resiliência, Antifrágil e adaptabilidade](/soft-skills/2020/06/11/soft-skill-antifragil-adaptabilidade.html){:target="\_blank"}
+
 ## Introdução
 
 O objetivo desse post é colocar ordem na série de posts sobre o estudo e aprendizado sobre Soft Skills.
@@ -49,9 +56,3 @@ A figura abaixo ilustra um pouco sobre a diferença entre **hard x soft skills**
 - [Link 2](https://blog.fortestecnologia.com.br/hard-skill-e-soft-skill-saiba-como-desenvolver/){:target="\_blank"}
 - [Link 3](https://blog.solides.com.br/qual-a-diferenca-entre-soft-e-hard-skills/){:target="\_blank"}
 - [Link 4](https://www.diferenca.com/soft-skills-hard-skills/){:target="\_blank"}
-
-## Índice (ordenado cronologicamente)
-
-O objetivo dessa série é compartilhar o aprendizado que vou tendo sobre temas dentro dessa área, compartilhando leituras e indicação de livros/artigos/cursos, vou registrando cronologicamente os posts associados a medida que for escrevendo.
-
-1. - [Inteligência Emocional](/soft-skills/2020/05/31/soft-skill-inteligencia-emocional.html){:target="\_blank"}
