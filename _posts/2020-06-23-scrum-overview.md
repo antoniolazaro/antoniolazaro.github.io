@@ -50,7 +50,7 @@ A retrospectiva, tem como objetivo a equipe avaliar o que deu certo, e o que deu
 
 ## Conclusão
 
-O objetivo dessa série foi avançar na série sobre agile e fazer uma introdução sobre Scrum. Os próximos passos, falarei um pouco sobre os papéis dentro do Scrum e depois experiências usando esse framework.
+O objetivo dessa série foi avançar na série sobre agile e fazer uma introdução sobre Scrum. Os próximos passos, falarei um pouco sobre os papéis dentro do Scrum e depois experiências usando esse framework. Recomendo fortemente que vejam o site https://www.scrumstudy.com/portuguese. Lá tem muito conteúdo e tem uma certificação gratuita de Scrum [(Scrum Fundamentals Certified - SFC)](https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified){:target="\_blank"} que apresenta um overview geral da linguagem. Existem outras certificações pagas também para quem quiser e puder, incrementar o currículo.
 
 <br/>
 
