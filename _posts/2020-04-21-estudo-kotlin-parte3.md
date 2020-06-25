@@ -9,7 +9,7 @@ thumbnail: heart
 ---
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Introdução
 
@@ -274,7 +274,7 @@ println(minusList)
 Nesse estudo, comparei com Java as estruturas básicas de programação com Kotlin. Nos próximos, pretendo trazer outros recursos que a linguagem oferece.
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:
 
@@ -305,4 +305,4 @@ Nesse estudo, comparei com Java as estruturas básicas de programação com Kotl
   <br/> -- https://kotlinlang.org/docs/tutorials/kotlin-for-py/collections.html
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

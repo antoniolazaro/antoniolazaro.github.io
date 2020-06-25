@@ -9,7 +9,7 @@ thumbnail: heart
 ---
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Introdução
 
@@ -265,7 +265,7 @@ A gramática do _when_ pode ser vista no [link da linguagem](https://kotlinlang.
 Conhecemos mais um recurso bacana e muito rico da linguagem Kotlin. A medida que for descobrindo mais, vou registrando aqui como nota mental e para compartilhar com outras pessoas que possam estar estudando mesmo tópico.
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:
 
@@ -279,4 +279,4 @@ Conhecemos mais um recurso bacana e muito rico da linguagem Kotlin. A medida que
 - https://superkotlin.com/kotlin-when-statement/
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

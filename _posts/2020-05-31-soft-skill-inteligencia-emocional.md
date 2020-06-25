@@ -10,6 +10,8 @@ thumbnail: heart
 
 <br/>
 
+[Conheça a série sobre Soft Skill]({% link _posts/2020-05-24-soft-skills-indice-serie.md %})
+
 ![](/static/img/soft-skills/curso-quarentena.jpg)
 
 Durante a quarentena causada pela Pandemia da [Covid-19](https://covid.saude.gov.br/){:target="\_blank"} algumas empresas tiveram iniciativa de liberar alguns cursos online gratuitos devido a campanha #fiqueemcasa gerada nas redes sociais. A [Escola Conquer](https://escolaconquer.com.br/){:target="\_blank"} foi uma dessas e liberou o curso de [Inteligência Emocional](https://online.escolaconquer.com.br/soft-skills/inteligencia-emocional/){:target="\_blank"}. Eu nunca botei muita fé em cursos dessa natureza, o que não significa que não ache o tema relevante, porém esse curso me surpreendeu positivamente, e minha curiosidade sobre o assunto aumentou. Compartilho um pouco do que aprendi e li sobre inteligência emocional.
@@ -51,6 +53,8 @@ Basicamente, Goleman divide a IE como um conjunto de compentências e habilidade
 ## Conclusão
 
 O tema habilidade é bastante extenso e cabe muitas explorações, como primeiro artigo da série, a ideia foi apresentar conceitualmente algumas coisas que pude ler nas fontes supracitadas, bem como no curso da Escola Conquer. Ganhei o livro de inteligência emocional a alguns anos atrás, porém, comecei a leitura sobre o tema por agora e pretendo me aprofundar mais. A medida que for descobrindo mais o assunto, pretendo ir compartilhando os conceitos. Acredito que profissionalmente desenvolver soft skills, além de nos tornar melhores como profissionais, nos tornará melhores como seres humanos, o que traz ganho social para todos. Vale a pena o esforço da leitura.
+
+[Conheça a série sobre Soft Skill]({% link _posts/2020-05-24-soft-skills-indice-serie.md %})
 
 ## Outras fontes
 

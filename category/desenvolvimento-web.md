@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: web
-title: Textos sobre Desenvolvimento Web
+title: Textos sobresenvolvimento Web
 permalink: /category/web
 ---

@@ -9,7 +9,7 @@ thumbnail: heart
 ---
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Introdução
 
@@ -50,7 +50,7 @@ error("We should not get here!")
 Com suporte de função é possível vermos como a linguagem Kotlin é extensível e podemos desenvolver novos comandos a partir de funções. Isso é muito útil.
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:
 
@@ -59,4 +59,4 @@ Com suporte de função é possível vermos como a linguagem Kotlin é extensív
 - https://www.jworks.io/loops-in-kotlin/
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

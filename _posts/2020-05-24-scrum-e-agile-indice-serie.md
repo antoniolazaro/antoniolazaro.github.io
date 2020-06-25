@@ -15,3 +15,4 @@ O objetivo desse post é colocar ordem na série de posts sobre o estudo e apren
 ### Índice (ordenado cronologicamente)
 
 1. - [Overview conceitual sobre agile](/agile/2020/06/01/agile-overview.html){:target="\_blank"}
+2. - [Scrum - Visão Geral]({% link _posts/2020-06-23-scrum-overview.md %}){:target="\_blank"}

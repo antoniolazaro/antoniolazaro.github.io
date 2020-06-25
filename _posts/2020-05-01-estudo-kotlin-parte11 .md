@@ -9,7 +9,7 @@ thumbnail: heart
 ---
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Introdução
 
@@ -76,7 +76,7 @@ Nos dois links abaixo é possível brincar um pouco online com ranges em Kotlin.
 Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores para mim que vim da linguagem Java. Espero continuar aprendendo.
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:
 
@@ -86,4 +86,4 @@ Nesse estudo, apresentei alguns recursos do Kotlin que são bastante inovadores 
 - https://medium.com/jay-tillu/keywords-in-kotlin-a429247a1802
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

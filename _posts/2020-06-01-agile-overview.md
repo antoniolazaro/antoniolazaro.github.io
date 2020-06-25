@@ -10,6 +10,8 @@ thumbnail: heart
 
 <br/>
 
+[Conheça a série sobre Agile]({% link _posts/2020-05-24-scrum-e-agile-indice-serie.md %})
+
 Primeiro post da série sobre agile vamos falar de uma visão conceitual sobre métodos agéis e tentarei falar um pouco sobre Scrum e minhas experiências com esse framework.
 
 ![](/static/img/agile/agile.jpeg)
@@ -66,6 +68,9 @@ No mundo ágil, não existe uma regra onde quem usa XP não usa Scrum ou Kanban 
 ## Conclusão
 
 Diante do apresentado, vimos que temos que pensar no contexto de nosso projeto e equipe e adequar as ferramentas, metodologias que melhor nos atende sempre pensando no foco principal que é entregas assertivas, com qualidade e com velocidade aceitável. Importante pensar em ciclos incrementais e evolutivos. E sempre medir resultados para ter certeza que o time e o projeto estão caminhando em direção ao resultado.
+
+<br/>
+[Conheça a série sobre Agile]({% link _posts/2020-05-24-scrum-e-agile-indice-serie.md %})
 
 ## Outras fontes
 

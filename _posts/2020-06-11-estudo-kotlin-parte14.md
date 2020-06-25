@@ -9,7 +9,7 @@ thumbnail: heart
 ---
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Introdução
 
@@ -324,7 +324,7 @@ A figura abaixo, sintetiza bacana, ela foi extraída do texto do [post.](<(https
 <br/>
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:
 
@@ -336,4 +336,4 @@ A figura abaixo, sintetiza bacana, ela foi extraída do texto do [post.](<(https
 - https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})

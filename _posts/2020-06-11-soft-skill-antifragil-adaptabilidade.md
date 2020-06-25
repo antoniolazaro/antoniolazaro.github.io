@@ -10,6 +10,8 @@ thumbnail: heart
 
 <br/>
 
+[Conheça a série sobre Soft Skill]({% link _posts/2020-05-24-soft-skills-indice-serie.md %})
+
 ![](/static/img/soft-skills/anti-fragil.jpeg)
 
 Durante a quarentena causada pela Pandemia da [Covid-19](https://covid.saude.gov.br/){:target="\_blank"} algumas empresas tiveram iniciativa de liberar alguns cursos online gratuitos devido a campanha #fiqueemcasa gerada nas redes sociais. A [Escola Conquer](https://escolaconquer.com.br/){:target="\_blank"} foi uma dessas e liberou o curso de [Inteligência Emocional](https://online.escolaconquer.com.br/soft-skills/inteligencia-emocional/){:target="\_blank"}. Eu nunca botei muita fé em cursos dessa natureza, o que não significa que não ache o tema relevante, porém esse curso me surpreendeu positivamente, e minha curiosidade sobre o assunto aumentou. Compartilho um pouco do que aprendi e li sobre o conceito de anti-frágil e adaptabilidade.
@@ -82,6 +84,8 @@ Alguns livros que falam sobre o tema antifrágil (eu não tenho e não os li, ma
 1. [Antifrágil (Nova edição): Coisas que se beneficiam com o caos](https://www.amazon.com.br/Antifr%C3%A1gil-Nova-edi%C3%A7%C3%A3o-Coisas-beneficiam/dp/8547001085/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=antifragil&qid=1591921726&sr=8-2){:target="\_blank"}
 
 Me pareceu ser interessante o título [Arriscando a própria pele: Assimetrias ocultas no cotidiano](https://www.amazon.com.br/Arriscando-pr%C3%B3pria-pele-Assimetrias-cotidiano/dp/8547000704/ref=pd_bxgy_img_3/132-1535831-7354513?_encoding=UTF8&pd_rd_i=8547000704&pd_rd_r=94ce1d5f-25db-4242-bb3f-a020fd871ff7&pd_rd_w=E9RIi&pd_rd_wg=M3BEp&pf_rd_p=b7ddf2f0-cccc-4719-8541-b52293f96c07&pf_rd_r=K2536XYBP481QXQ0P66Y&psc=1&refRID=K2536XYBP481QXQ0P66Y){:target="\_blank"}, por isso, coloquei no post. O autor, [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb){:target="\_blank"}, me pareceu ter uma linguagem bem clara e consistente.
+
+[Conheça a série sobre Soft Skill]({% link _posts/2020-05-24-soft-skills-indice-serie.md %})
 
 ## Outras fontes
 

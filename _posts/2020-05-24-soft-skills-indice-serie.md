@@ -12,8 +12,9 @@ thumbnail: heart
 
 O objetivo dessa série é compartilhar o aprendizado que vou tendo sobre temas dentro dessa área, compartilhando leituras e indicação de livros/artigos/cursos, vou registrando cronologicamente os posts associados a medida que for escrevendo.
 
-1. - [Inteligência Emocional](/soft-skills/2020/05/31/soft-skill-inteligencia-emocional.html){:target="\_blank"}
-1. - [Resiliência, Antifrágil e adaptabilidade](/soft-skills/2020/06/11/soft-skill-antifragil-adaptabilidade.html){:target="\_blank"}
+1. - [Inteligência Emocional]({% link _posts/2020-05-31-soft-skill-inteligencia-emocional.md %}){:target="\_blank"}
+1. - [Resiliência, Antifrágil e adaptabilidade]({% link _posts/2020-06-11-soft-skill-antifragil-adaptabilidade.md %}){:target="\_blank"}
+1. - [Autogestão e autoconhecimento]({% link _posts/2020-06-23-soft-skill-autoconhecimento-autogestao.md %}){:target="\_blank"}
 
 ## Introdução
 

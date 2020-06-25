@@ -9,7 +9,7 @@ thumbnail: heart
 ---
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Introdução
 
@@ -68,6 +68,6 @@ Dificilmente, alguém utilizará para projetos reais a estrutura acima, de execu
 Até o momento, estou utilizando IntelliJ como IDE para programar em Kotlin e tenho gostado do resultado. Achei conceitualmente muito parecido com Java, porém mais simples. A interoperabilidade com Java é muito bem feita para os testes incialmente feitos.
 
 <br/>
-[Voltar para o índice da série de Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
+[Conheça a série sobre Kotlin]({% link _posts/2020-04-20-estudo-kotlin-indice-serie.md %})
 
 ## Outras Fontes:
