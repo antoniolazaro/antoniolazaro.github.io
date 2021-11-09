@@ -28,7 +28,7 @@ Nessa seção, pretendo falar de alguns recursos que pude experimentar durante o
 Em kotlin para declarar uma variável é possível a seguinte estrutura
 
 {% highlight kotlin %}
-<val | var> <propertyName>[propertyType] = <propertyValue>
+<val or var> <propertyName>[propertyType] = <propertyValue>
 {% endhighlight %}
 
 A estrutura acima é explicada da seguinte forma:
