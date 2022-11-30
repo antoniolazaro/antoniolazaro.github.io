@@ -3,7 +3,7 @@ layout:     post
 title:      Introdução docker e containers - Parte 2
 date:       21/03/2019
 author:     Antonio Lazaro
-summary:    Introdução a docker
+summary:    Introdução a docker - Parte 2
 categories: [docker,container,devops]
 thumbnail:  heart
 

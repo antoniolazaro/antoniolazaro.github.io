@@ -4,11 +4,20 @@ title: Aprendizado K8s - Containeres e Docker?
 date: 27/11/2022
 author: Antonio Lazaro
 summary: Aprendizado K8s - Containeres e Docker?
-categories: [k8, devops]
+categories: [k8, devops,docker,container]
 thumbnail: heart
 ---
 
+## Nota de aprendizado
+
+O objetivo dessa série é ser uma nota pessoal de conceitos e aprendizados um exercicio de escrita baseado em pesquisas. Com isso, não considero como verdade absoluta nenhuma das anotações, e uma parte significativa são informações extraídas da documentação oficial da ferramenta ou de outros links com as devidas referências.
+
 ![](/static/img/k8/docker.webp)
+
+## Outros posts sobre Docker
+
+- [Introdução a docker - Parte 1]({% link _posts/2019-03-21-introducao-docker-containers.md%}){:target="\_blank"}
+- [Introdução a docker - Parte 2]({% link _posts/2019-03-21-introducao-docker-containers-parte-2.md%}){:target="\_blank"}
 
 
 ## Introdução
@@ -108,7 +117,7 @@ Portanto, a tecnologia Docker é uma abordagem mais granular, controlável e bas
 
 #### Quais limitações do docker?
 
-O Docker, por si só, pode gerenciar contêineres individuais. Quando você começa a usar mais e mais contêineres e aplicativos em contêineres, divididos em centenas de partes, o gerenciamento e a orquestração podem ficar difíceis. Eventualmente, você precisa dar um passo para trás e agrupar contêineres para fornecer serviços – rede, segurança, telemetria e muito mais – em todos os seus contêineres. É aí que entra o Kubernetes. Assunto do [próximo post.]({% link _posts/2022-11-27-estudo-k8-serie-o-que-e-k8-parte2.md %}){:target="\_blank"}
+O Docker, por si só, pode gerenciar contêineres individuais. Quando você começa a usar mais e mais contêineres e aplicativos em contêineres, divididos em centenas de partes, o gerenciamento e a orquestração podem ficar difíceis. Eventualmente, você precisa dar um passo para trás e agrupar contêineres para fornecer serviços – rede, segurança, telemetria e muito mais – em todos os seus contêineres. É aí que entra o Kubernetes. Assunto do [próximo post.]({% link _posts/2022-11-30-estudo-k8-serie-o-que-e-k8-parte2.md %}){:target="\_blank"}
 
 #### Onde aprendo mais sobre Docker?
 
