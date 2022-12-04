@@ -4,7 +4,7 @@ title:      Sistemas de controle de versionamento e por quê escolhi o GIT
 date:       01/03/2017
 author:     Antonio Lazaro
 summary:    Evolução Java
-categories: [git]
+categories: [git, iniciante]
 thumbnail:  heart
 tags: [git, cvs]
 

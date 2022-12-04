@@ -6,7 +6,7 @@ author:     Antonio Lazaro
 summary:    Evolução Java
 categories: java
 thumbnail:  heart
-tags: [java, JVM]
+tags: [java, JVM, iniciante, desenvolvimento]
 
 ---
 

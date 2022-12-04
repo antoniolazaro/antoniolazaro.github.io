@@ -6,7 +6,7 @@ author:     Antonio Lazaro
 summary:    Evolução Java
 categories: [java,carreira]
 thumbnail:  heart
-tags: [java, carreira]
+tags: [java, carreira, desenvolvimento]
 
 ---
 

@@ -4,7 +4,7 @@ title:      Livros que todos desenvolvedores devem ler durante sua carreira
 date:       26/05/2019
 author:     Antonio Lazaro
 summary:    Livros que todos desenvolvedores devem ler durante sua carreira
-categories: [carreira,tech-book-review,desenvolvimento]
+categories: [carreira,tech-book-review,desenvolvimento,iniciante]
 thumbnail:  heart
 
 ---
