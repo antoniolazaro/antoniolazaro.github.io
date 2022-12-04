@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aprendizado K8s - Componentes do Kubernetes
-date: 30/11/2022
+date: 04/12/2022
 author: Antonio Lazaro
 summary: Aprendizado K8s - Componentes do Kubernetes
 categories: [k8, devops]

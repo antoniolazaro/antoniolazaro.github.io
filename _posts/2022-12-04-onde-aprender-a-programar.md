@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Onde aprender a programar?
-date: 01/12/2022
+date: 04/12/2022
 author: Antonio Lazaro
 summary: arro/merge_requests
 categories: [iniciante, carreira, desenvolvimento, desenvolvimento web]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aprendendo a programar - Série
-date: 01/12/2022
+date: 04/12/2022
 author: Antonio Lazaro
 summary: Aprendendo a programar - Série
 categories: [iniciante, carreira, desenvolvimento, desenvolvimento web]

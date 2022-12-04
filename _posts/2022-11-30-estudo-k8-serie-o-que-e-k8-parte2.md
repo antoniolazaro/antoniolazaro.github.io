@@ -19,7 +19,7 @@ De maneira muito direta e objetiva a definição conceitual de Kubernetes, e seg
 
 O nome Kubernetes tem origem grega e significa timoneiro ou piloto, devido a isso, podemos entender o simbolo da plataforma. K8s é um short name para tecnologia que vem da contagem de 8 letras entre o "K" e o "s". 
 
-O Google foi responsável por construir essa tecnologia e abriu o código-fonte da mesma em 2014. Ele combina mais de 154 anos de experiência do Google usando cargas de trabalho em larga escala com as melhores ideias e práticas da comunidade.
+O Google foi responsável por construir essa tecnologia e abriu o código-fonte da mesma em 2014. Ele combina mais de 15 anos de experiência do Google usando cargas de trabalho em larga escala com as melhores ideias e práticas da comunidade.
 
 Para conhecer mais sobre o projeto é possível conhecer [sua extensa documentação](https://kubernetes.io/docs/concepts/overview/){:target="\_blank"}, bem como ter acesso ao seu [código-fonte](https://github.com/kubernetes/kubernetes){:target="\_blank"}.
 
