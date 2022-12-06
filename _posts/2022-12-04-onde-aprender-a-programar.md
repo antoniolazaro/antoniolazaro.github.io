@@ -113,6 +113,7 @@ Ele falou sobre a divisão do site dele, porém vejo muito sentido em como vejo 
 - Infraestrutura (computadores físicos), Virtualização, Cloud Computing
 - Programação
 - Segurança
+- Qualidade de software (teste de software)
 
 Talvez tenham mais áreas, mas de maneira macro é como vejo. O foco desse post é em programação então vou abstrair as demais áreas, mas fica para mostrar um pouco desse mundo. Não encontrei nenhuma referência formal ou oficial da computação, então convencionei como entendo.
 

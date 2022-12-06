@@ -23,4 +23,4 @@ O objetivo desse post é colocar ordem na série de posts sobre o estudo e apren
 
 1. [Containeres e Docker?]({% link _posts/2022-11-27-estudo-k8-serie-o-que-e-k8-parte1.md %})
 1. [O que é Kubernetes (K8s)?]({% link _posts/2022-11-30-estudo-k8-serie-o-que-e-k8-parte2.md %})
-1. [Componentes do Kubernetes]({% link _posts/2022-12-04-estudo-k8-serie-o-que-e-k8-parte3.md %})
+1. [Componentes do Kubernetes]({% link _posts/2022-12-06-estudo-k8-serie-o-que-e-k8-parte3.md %})

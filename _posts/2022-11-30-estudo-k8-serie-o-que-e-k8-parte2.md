@@ -74,7 +74,7 @@ Dito isso, temos como características do K8s:
 - Não fornece nem adota sistemas de configuração de máquinas como vagrant ou chef;
 - Adicionalmente, o Kubernetes não é um mero sistema de orquestração. Na verdade, ele elimina a necessidade de orquestração. A definição técnica de orquestração é a execução de um fluxo de trabalho definido: primeiro faça A, depois B e depois C. Em contraste, o Kubernetes compreende um conjunto de processos de controle independentes e combináveis que conduzem continuamente o estado atual em direção ao estado desejado fornecido. Não importa como você vai de A para C. O controle centralizado também não é necessário. Isso resulta em um sistema que é mais fácil de usar e mais poderoso, robusto, resiliente e extensível.
 
-No próximo [post]({% link _posts/2022-12-04-estudo-k8-serie-o-que-e-k8-parte3.md %}), entraremos mais na apresentação da estrutura de componentes do K8s.
+No próximo [post]({% link _posts/2022-12-06-estudo-k8-serie-o-que-e-k8-parte3.md %}), entraremos mais na apresentação da estrutura de componentes do K8s.
 
 ## Fontes
 

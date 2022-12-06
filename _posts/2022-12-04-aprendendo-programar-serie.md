@@ -26,3 +26,7 @@ Objetivo dessa série é compilar e estruturar material para pessoas que estão 
 
 1. [Overview sobre Nosql]({% link _posts/2017-02-05-vamos-continuar-falando-nosql.md %})
 1. [Um pouco sobre GIT]({% link _posts/2017-03-01-sistemas-controle-versionamento-e-por-que-escolhi-o-git.md %})
+
+#### Processos de desenvolvimento
+
+1. [Scrum e práticas ou métodos agéis]({% link _posts/2020-05-24-scrum-e-agile-indice-serie.md %})
