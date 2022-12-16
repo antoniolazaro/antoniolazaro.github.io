@@ -153,12 +153,22 @@ Mas afim de mostrar o que seria uma aplicação, vou dar exemplo com uma aplica�
 
 Vou tentar compilar algumas plataformas de ensino, gratuitas e pagas, não necessariamente conheço qualitativamente, mas algo que ouvi falar e compartilho aqui.
 
-### Javascript
-- https://cubos.academy/cursos/desenvolvimento-de-software
-- https://cubos.academy/
+## Não sei nada e quero aprender Java (linguagem se aprende outras, depois que aprende a primeira)
 
-### Java
-- https://loiane.training/ 
+### Loiane
+
+- https://loiane.training/curso/java-basico
+- https://loiane.training/curso/estrutura-de-dados
+- https://loiane.training/curso/java-intermediario
+- https://loiane.training/curso/crud-angular-spring
+
+### Gustavo Guanabara
+
+- https://www.cursoemvideo.com/curso/curso-de-algoritmo/
+- https://www.cursoemvideo.com/curso/java-basico/
+- https://www.cursoemvideo.com/curso/java-poo/
+
+### Curso em geral
 - https://www.alura.com.br/
 
 #### Path Java dentro da alura
