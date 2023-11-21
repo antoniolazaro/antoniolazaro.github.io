@@ -18,7 +18,7 @@ Continuando a série de posts sobre Docker e containers, baseado na <a href="htt
 
 ## Um pouco de teoria
 
-Nesse post falaremos sobre como criar um container. Caso tenha perdido a definição de container, você pode ir no [post anterior da série](https://antoniolazaro.dev/docker/container/devops/2019/03/21/introducao-docker-containers.html).
+Nesse post falaremos sobre como criar um container. Caso tenha perdido a definição de container, você pode ir no [post anterior da série](https://antoniolazaro.github.io//docker/container/devops/2019/03/21/introducao-docker-containers.html).
 <br/> _Dockerfile:_ Arquivo de configuração que descreve o que o container conterá. Configurações de rede, portas que o mundo externo enxergará, bem como file system, devem ser configurados nesse arquivo. Preste atenção pois o nome do arquivo é *Dockerfile* e isso faz total diferença pro Docker que é case sentive.
 
 ## Prática

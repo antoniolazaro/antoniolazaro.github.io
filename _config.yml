@@ -51,7 +51,7 @@ urls:
   - text: XML Feed
     url: /feed.xml
 
-url: "https://antoniolazaro.dev"
+url: "https://antoniolazaro.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
