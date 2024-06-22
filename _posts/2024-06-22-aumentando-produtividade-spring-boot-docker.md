@@ -79,6 +79,8 @@ services:
 
 Outros poderosos recursos podem ser usados, como o suporte a imagem customizadas, não usar todos containers especificamente. Um outro projeto interessante que estou testando é o [Test Containers](https://java.testcontainers.org/) que cria containers para o escopo de testes, mas pretendo registrar o aprendizado em um post especifico dele.
 
+Pra quem usa Intelij, ainda sugiro a instalacão do Plugin Docker ![](/static/img/plugin-docker.png)
+
 ## Fontes
 
 - https://docs.spring.io/spring-boot/reference/features/dev-services.html#features.dev-services.docker-compose
